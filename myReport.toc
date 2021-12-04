@@ -4,20 +4,18 @@
 \contentsline {chapter}{\numberline {2}Literature Survey}{3}{}%
 \contentsline {section}{\numberline {2.1}Scientific software}{3}{}%
 \contentsline {subsection}{\numberline {2.1.1}Computational model}{3}{}%
-\contentsline {subsection}{\numberline {2.1.2}Why computational models aren't usually test right}{4}{}%
-\contentsline {section}{\numberline {2.2}Current testing method}{4}{}%
-\contentsline {subsection}{\numberline {2.2.1}Behave}{5}{}%
-\contentsline {subsection}{\numberline {2.2.2}Cucumber}{5}{}%
-\contentsline {subsection}{\numberline {2.2.3}Causal testing and its problem}{6}{}%
-\contentsline {section}{\numberline {2.3}Summary}{6}{}%
-\contentsline {chapter}{\numberline {3}Analysis}{7}{}%
-\contentsline {section}{\numberline {3.1}Project Requirements}{8}{}%
-\contentsline {section}{\numberline {3.2}Ethical, Professional and Legal Issues}{8}{}%
-\contentsline {chapter}{\numberline {4}Planning}{10}{}%
-\contentsline {section}{\numberline {4.1}Risk Analysis}{10}{}%
-\contentsline {section}{\numberline {4.2}Project Plan}{10}{}%
-\contentsline {section}{\numberline {4.3}Current progress}{11}{}%
-\contentsline {chapter}{\numberline {5}Conclusions}{13}{}%
-\contentsline {chapter}{Appendices}{15}{}%
-\contentsline {chapter}{\numberline {A}An Appendix of Some Kind}{16}{}%
-\contentsline {chapter}{\numberline {B}Another Appendix}{17}{}%
+\contentsline {subsection}{\numberline {2.1.2}Why computational models are hard to test}{4}{}%
+\contentsline {section}{\numberline {2.2}Current testing method}{5}{}%
+\contentsline {subsection}{\numberline {2.2.1}Behavior-driven development with Behave}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}Causal testing}{6}{}%
+\contentsline {subsection}{\numberline {2.2.3}Testing computational model with causal testing}{7}{}%
+\contentsline {section}{\numberline {2.3}Summary}{7}{}%
+\contentsline {chapter}{\numberline {3}Analysis}{8}{}%
+\contentsline {section}{\numberline {3.1}Project Requirements}{9}{}%
+\contentsline {section}{\numberline {3.2}Analysis}{10}{}%
+\contentsline {section}{\numberline {3.3}Ethical, Professional and Legal Issues}{11}{}%
+\contentsline {chapter}{\numberline {4}Planning}{12}{}%
+\contentsline {section}{\numberline {4.1}Risk Analysis}{12}{}%
+\contentsline {section}{\numberline {4.2}Project Plan}{12}{}%
+\contentsline {section}{\numberline {4.3}Current progress}{13}{}%
+\contentsline {chapter}{\numberline {5}Conclusions}{15}{}%

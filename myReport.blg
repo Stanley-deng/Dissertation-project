@@ -4,45 +4,47 @@ The top-level auxiliary file: myReport.aux
 Reallocating 'name_of_file' (item size: 1) to 4 items.
 The style file: acm.bst
 Reallocating 'name_of_file' (item size: 1) to 15 items.
+I found no \citation commands---while reading file myReport.aux
 Database file #1: mybibliography.bib
-You've used 3 entries,
+You've used 0 entries,
             2253 wiz_defined-function locations,
-            553 strings with 4336 characters,
-and the built_in function-call counts, 1071 in all, are:
-= -- 107
-> -- 46
+            527 strings with 3889 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
 < -- 0
-+ -- 20
-- -- 16
-* -- 104
-:= -- 178
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 17
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 27
-empty$ -- 83
-format.name$ -- 16
-if$ -- 211
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 3
-newline$ -- 18
-num.names$ -- 6
-pop$ -- 11
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 14
+purify$ -- 0
 quote$ -- 0
-skip$ -- 15
+skip$ -- 1
 stack$ -- 0
-substring$ -- 94
-swap$ -- 6
+substring$ -- 0
+swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 0
 warning$ -- 0
-while$ -- 12
-width$ -- 4
-write$ -- 32
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There was 1 error message)
