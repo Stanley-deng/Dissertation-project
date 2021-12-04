@@ -1,99 +1,65 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Reference1}
-{\sc U.S. Department of Health and Human Services}
-\newblock Computational modeling Section.1
-\newblock {\em Nation Institute of Biomedical Imaging and Bioengineering}, 12 (May 2020),
-  1.
-
-\bibitem{Reference2}
-{\sc Robert C Wilson, Anne GE Collins}
-\newblock Ten simple rules for the computational modeling of behavioral data
-\newblock {\em eLife 2019;8:e49547}, 26 (November 2019),
-  1.
-
-\bibitem{Reference3}
-{\sc Kerr CC, Stuart RM, Mistry D, Abeysuriya RG, Rosenfeld R, Hart G, Núñez RC, Cohen JA, Selvaraj P, Hagedorn B, George L, Jastrzebski M, Izzo A, Fowler G, Palmer A, Delport D, Scott N, Kelly S, Bennette C, Wagner B, Chang S, Oron AP, Wenger E, Panovska-Griffiths J, Famulare M, Klein DJ}
-\newblock Covasim: an agent-based model of COVID-19 dynamics and interventions. 
-\newblock {\em PLOS Computational Biology 17 (7): e1009149.},(2021)
-
-\bibitem{Reference4}
-{\sc U.S. Department of Health and Human Services}
-\newblock Computational modeling Section.3
-\newblock {\em Nation Institute of Biomedical Imaging and Bioengineering }, 12 (May 2020),
-  1.
-
-\bibitem{Reference5}
-{\sc Muffy Calder, Claire Craig, Dave Culley, Richard de Cani, Christl A. Donnelly, Rowan Douglas, Bruce Edmonds, Jonathon Gascoigne, Nigel Gilbert, Caroline Hargrove, Derwen Hinds, David C. Lane, Dervilla Mitchell, Giles Pavey, David Robertson, Bridget Rosewell, Spencer Sherwin, Mark Walport and Alan Wilson}
-\newblock Computational modelling for decision-making: where, why, what, who and how Chapter.3
-\newblock {\em Royal Society Open Science}, 20 (June 2018),
-  3.
-
-\bibitem{Reference6}
-{\sc Cliff C. Kerr ,Robyn M. Stuart ,Dina Mistry ,Romesh G. Abeysuriya,Katherine Rosenfeld,Gregory R. Hart,Rafael C. Núñez,Jamie A. Cohen,Prashanth Selvaraj,Brittany Hagedorn,Lauren George,Michał Jastrzebski,Amanda S. Izzo,Greer Fowler,Anna Palmer,Dominic Delport,Nick Scott,Sherrie L. Kelly,Caroline S. Bennette,Bradley G. Wagner,Stewart T. Chang,Assaf P. Oron,Edward A. Wenger,Jasmina Panovska-Griffiths,Michael Famulare,Daniel J. Klein}
-\newblock Covasim: An agent-based model of COVID-19 dynamics and interventions
-\newblock {\em PLOS Computational Biology}, 26 (July 2021),
-  1.
-
-\bibitem{Reference7}
-{\sc Upulee Kanewala, James M.Bieman}
-\newblock Testing scientific software: A systematic literature review
-\newblock {\em ScienceDirect}, 23 (May 2014),
-  3.2.
+Computational modeling.
+\newblock {\em National Institute of Biomedical Imaging and Bioengineering\/}
+  (May 2020), 1.
 
 \bibitem{Reference8}
-{\sc Upulee Kanewala, James M.Bieman}
-\newblock Testing scientific software: A systematic literature review
-\newblock {\em ScienceDirect}, 23 (May 2014),
-  3.2.2.
-
-\bibitem{Reference9}
-{\sc Upulee Kanewala, James M.Bieman}
-\newblock Testing scientific software: A systematic literature review
-\newblock {\em ScienceDirect}, 23 (May 2014),
-  1.
-
-\bibitem{Reference10}
-{\sc Judith Segal}
-\newblock Scientists and software engineers: A tale of two cultures
-\newblock {\em Open Research Online},(2008),
-  2.1
-
-\bibitem{Reference11}
-{\sc Benno Rice, Richard Jones and Jens Engel}
-\newblock Behavior Driven Development
-\newblock {\em behave},(2017),
-  1.
+{\sc Benno~Rice, R.~J., and Engel, J.}
+\newblock Behavior driven development.
 
 \bibitem{Reference12}
-{\sc Marit van Dijk, Aslak Hellesoy, etc.}
-\newblock Cucumber
-\newblock {\em Cucumber},(2019),
-  1.
+{\sc Brittany~Johnson, Yuriy~Brun, A.~M.}
+\newblock Causal testing: Finding defects' root causes.
+\newblock 123 -- 146.
+
+\bibitem{Reference5}
+{\sc Cliff C.~Kerr, Robyn M.~Stuart, e.}
+\newblock Covasim: An agent-based model of covid-19 dynamics and interventions.
+\newblock {\em PLOS Computational Biology\/} (July 2018).
 
 \bibitem{Reference13}
-{\sc Marit van Dijk, Aslak Hellesoy, etc.}
-\newblock Gherkin Reference
-\newblock {\em Gherkin Reference},(2019),
-  1.
+{\sc Gaskin, P. B. L.~J.}
+\newblock Partial least squares (pls) structural equation modeling (sem) for
+  building and testing behavioral causal theory: When to choose it and how to
+  use it.
 
-\bibitem{Reference14}
-{\sc Christopher Hitchcock}
-\newblock Causal Models
-\newblock {\em Stanford Encyclopedia of philosophy}, 7 (Augest 2018),
-  1.
+\bibitem{Reference11}
+{\sc Hitchcock, C.}
+\newblock Causal models.
 
-\bibitem{Reference15}
-{\sc Brittany Johnson, Yuriy Brun, Alexandra Meliou}
-\newblock Causal Testing: Finding Defects' Root Causes
-\newblock {\em Cornell Universtiy}, 19 (February 2020),
-  8.
+\bibitem{Reference3}
+{\sc Kerr~CC, Stuart~RM, M. D.~e.}
+\newblock Covasim.
 
-\bibitem{Reference16}
-{\sc Paul Benjamin Lowry; James Gaskin}
-\newblock Partial Least Squares (PLS) Structural Equation Modeling (SEM) for Building and Testing Behavioral Causal Theory: When to Choose It and How to Use It
-\newblock {\em IEEE}, 22 (April 2014),
-  1.
+\bibitem{Reference9}
+{\sc Marit~van Dijk, Aslak~Hellesoy, e.}
+\newblock Cucumber.
 
+\bibitem{Reference10}
+{\sc Marit~van Dijk, Aslak~Hellesoy, e.}
+\newblock Gherkin reference.
+
+\bibitem{Reference4}
+{\sc Muffy~Calder, Claire~Craig, e.}
+\newblock Computational modelling for decision-making: where, why, what, who
+  and how.
+\newblock {\em Royal Society Open Science\/} (June 2018).
+
+\bibitem{Reference2}
+{\sc Robert C~Wilson, A. G.~C.}
+\newblock Ten simple rules for the computational modeling of behavioral data.
+\newblock {\em eLife\/} (November 2019), 1.
+
+\bibitem{Reference7}
+{\sc Segal, J.}
+\newblock Scientists and software engineers: A tale of two cultures.
+\newblock {\em Open research Online}, 1 (2008), 2.
+
+\bibitem{Reference6}
+{\sc Upulee~Kanewala, J.~M.}
+\newblock Testing scientific software: A systematic literature review.
+\newblock {\em ScienceDirect\/} (May 2014).
 
 \end{thebibliography}
