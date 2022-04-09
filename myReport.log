@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  4 DEC 2021 05:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  8 APR 2022 21:30
 entering extended mode
 **./myReport.tex
 (myReport.tex
@@ -99,7 +99,11 @@ nd-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box50
-) (myReport.aux)
+) (myReport.aux
+
+LaTeX Warning: Label `fig:figure1' multiply defined.
+
+)
 \openout1 = `myReport.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -219,51 +223,44 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (chapters/chapter1.tex
 Chapter 1.
 
-Overfull \hbox (6.48975pt too wide) in paragraph at lines 3--6
+Overfull \hbox (6.48975pt too wide) in paragraph at lines 3--7
 \OT1/cmr/m/n/10.95 Throughout the years, com-pa-nies have de-vel-oped CPU with 
 more and more pow-er-ful pro-cess-ing
  []
 
 
-Overfull \hbox (20.57265pt too wide) in paragraph at lines 3--6
+Overfull \hbox (20.57265pt too wide) in paragraph at lines 3--7
 \OT1/cmr/m/n/10.95 power, and these more pow-er-ful CPU comes the in-ven-tion o
 f su-per-com-puter, these su-per-com-put-ers
  []
 
 
-Overfull \hbox (0.37727pt too wide) in paragraph at lines 3--6
-\OT1/cmr/m/n/10.95 The so-lu-tion pro-vided by this project is to use the causa
-l mod-els, by de-ter-mine the re-la-tion-ship
+Overfull \hbox (6.33893pt too wide) in paragraph at lines 3--7
+\OT1/cmr/m/n/10.95 There is a new test-ing method in de-vel-op-ment name Caus-c
+um-ber, it de-ter-mines the re-la-tion-ship
  []
 
 
-Overfull \hbox (13.82147pt too wide) in paragraph at lines 10--14
-\OT1/cmr/m/n/10.95 com-pu-ta-tional model and is mainly based on a model called
- Co-v-asim, Co-v-asim is a com-pu-ta-tional
- []
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
-
-Overfull \hbox (0.2252pt too wide) in paragraph at lines 10--14
-\OT1/cmr/m/n/10.95 Caus-cum-ber is a in de-vel-op-ing tool and is aimed to pro-
-vide a test-ing method for com-pu-ta-tional
- []
-
-
-Overfull \hbox (2.05017pt too wide) in paragraph at lines 10--14
-\OT1/cmr/m/n/10.95 model like Co-v-asim, it uses Cu-cum-ber spec-i-fi-ca-tion, 
-an-other tool reads ex-e-cutable spec-i-fi-ca-tion
  []
 
 [1
 
 
 ]
-Overfull \hbox (3.66228pt too wide) in paragraph at lines 18--22
+Overfull \hbox (3.66228pt too wide) in paragraph at lines 19--26
 \OT1/cmr/m/n/10.95 In the third chap-ter, Re-quire-ments and Anal-y-sis, will b
 e mainly talk-ing about the re-quire-ments
  []
 
-) (chapters/chapter2.tex [2]
+
+Overfull \hbox (3.69264pt too wide) in paragraph at lines 19--26
+\OT1/cmr/m/n/10.95 of test-ing pro-cess with dif-fer-ent mod-els us-ing the im-
+ple-mented user in-ter-face, each walk-through
+ []
+
+[2]) (chapters/chapter2.tex [3]
 Chapter 2.
 
 Overfull \hbox (5.7914pt too wide) in paragraph at lines 6--7
@@ -271,175 +268,92 @@ Overfull \hbox (5.7914pt too wide) in paragraph at lines 6--7
  com-mon prac-tice with to-day's tech-nol-ogy,
  []
 
-[3
 
-] [4]
-<figures/featureFile.png, id=41, 319.1925pt x 308.65312pt>
-File: figures/featureFile.png Graphic file (type png)
-<use figures/featureFile.png>
-Package pdftex.def Info: figures/featureFile.png  used on input line 31.
-(pdftex.def)             Requested size: 284.52756pt x 275.1337pt.
+Overfull \hbox (15.08887pt too wide) in paragraph at lines 8--15
+\OT1/cmr/m/n/10.95 but it is also more com-pu-ta-tion-ally in-ten-sive. Com-par
+ed to em-pir-i-cal, it is eas-ier to ex-trap-o-la-tion,
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (9.47179pt too wide) in paragraph at lines 8--15
+\OT1/cmr/m/n/10.95 equa-tions, the model uses equa-tions to rep-re-sent re-la-t
+ion-ships be-tween ob-serv-ables(EQUATION
+ []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
  []
 
-[6 <./figures/featureFile.png>]) (chapters/chapter3.tex
-Overfull \hbox (7.5251pt too wide) in paragraph at lines 46--1
+[4
+
+] [5] [6]
+Overfull \hbox (8.19427pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10.95 Behavior-driven de-vel-op-ment is a de-vel-op-ment tech-niqu
+e that en-cour-ages col-lab-o-ra-tion be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+[7]
+<figures/featureFile.png, id=51, 319.1925pt x 308.65312pt>
+File: figures/featureFile.png Graphic file (type png)
+<use figures/featureFile.png>
+Package pdftex.def Info: figures/featureFile.png  used on input line 47.
+(pdftex.def)             Requested size: 284.52756pt x 275.1337pt.
+ [8 <./figures/featureFile.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+<figures/stepFile.png, id=56, 468.24937pt x 112.16907pt>
+File: figures/stepFile.png Graphic file (type png)
+<use figures/stepFile.png>
+Package pdftex.def Info: figures/stepFile.png  used on input line 57.
+(pdftex.def)             Requested size: 284.52756pt x 68.16115pt.
+)
+Overfull \hbox (7.5251pt too wide) in paragraph at lines 70--80
 \OT1/cmr/m/n/10.95 Behave is a pow-er-ful test-ing tool for soft-ware tester's,
  based on the behavior-driven de-vel-op-ment
  []
 
-[7]
-Chapter 3.
+(myReport.bbl [9 <./figures/stepFile.png>]) [10
 
-Overfull \hbox (4.80795pt too wide) in paragraph at lines 2--6
-\OT1/cmr/m/n/10.95 of-ten causes de-vel-op-ers of those mod-els un-will-ing to 
-test their mod-els thor-oughly. Fur-ther-more,
- []
+] (myReport.aux)
 
+LaTeX Warning: There were multiply-defined labels.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
- []
-
-<figures/Analysis.png, id=53, 679.53876pt x 357.335pt>
-File: figures/Analysis.png Graphic file (type png)
-<use figures/Analysis.png>
-Package pdftex.def Info: figures/Analysis.png  used on input line 9.
-(pdftex.def)             Requested size: 369.88582pt x 194.50107pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--38
-
- []
-
-[8
-
-] [9 <./figures/Analysis.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
-
- []
-
-[10]) (chapters/chapter4.tex [11]
-Chapter 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--23
-
- []
-
-[12
-
-]
-<figures/Gantt_chart.png, id=71, 417.05812pt x 100.12407pt>
-File: figures/Gantt_chart.png Graphic file (type png)
-<use figures/Gantt_chart.png>
-Package pdftex.def Info: figures/Gantt_chart.png  used on input line 32.
-(pdftex.def)             Requested size: 455.24408pt x 109.29805pt.
-
-Overfull \hbox (14.39662pt too wide) in paragraph at lines 32--32
- [][] 
- []
-
-<figures/Gui_overview.png, id=72, 417.05812pt x 253.69781pt>
-File: figures/Gui_overview.png Graphic file (type png)
-<use figures/Gui_overview.png>
-Package pdftex.def Info: figures/Gui_overview.png  used on input line 43.
-(pdftex.def)             Requested size: 275.99164pt x 167.89398pt.
-[13 <./figures/Gantt_chart.png> <./figures/Gui_overview.png>]
-<figures/select_feature_file.png, id=79, 417.05812pt x 240.9pt>
-File: figures/select_feature_file.png Graphic file (type png)
-<use figures/select_feature_file.png>
-Package pdftex.def Info: figures/select_feature_file.png  used on input line 50
-.
-(pdftex.def)             Requested size: 284.52756pt x 164.35751pt.
-<figures/Result_display.png, id=80, 416.30531pt x 363.60844pt>
-File: figures/Result_display.png Graphic file (type png)
-<use figures/Result_display.png>
-Package pdftex.def Info: figures/Result_display.png  used on input line 57.
-(pdftex.def)             Requested size: 278.83708pt x 243.5498pt.
-<figures/Input_section.png, id=81, 417.05812pt x 444.15938pt>
-File: figures/Input_section.png Graphic file (type png)
-<use figures/Input_section.png>
-Package pdftex.def Info: figures/Input_section.png  used on input line 64.
-(pdftex.def)             Requested size: 284.52756pt x 303.0342pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[14
-
- <./figures/select_feature_file.png> <./figures/Result_display.png>])
-(chapters/chapter5.tex [15 <./figures/Input_section.png>]
-Chapter 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-) (myReport.bbl [16
-
-]) [17
-
-] (myReport.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 2089 strings out of 478893
- 33617 string characters out of 2848032
- 338234 words of memory out of 3000000
- 19934 multiletter control sequences out of 15000+600000
+ 2033 strings out of 478893
+ 32107 string characters out of 2848032
+ 336208 words of memory out of 3000000
+ 19892 multiletter control sequences out of 15000+600000
  410545 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,66p,1099b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Stanley/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Stanl
-ey/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr12.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Stanley/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Stanley/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on myReport.pdf (23 pages, 482484 bytes).
+ 57i,7n,66p,1021b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Stanley/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Stanley
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr17.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsl10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Stanley/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on myReport.pdf (16 pages, 276425 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

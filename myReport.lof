@@ -1,12 +1,4 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces A feature file example.}}{6}{}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces A diagram analysis for the system.}}{9}{}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Project plan display in gantt chart.}}{13}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces An overview of the user interface.}}{13}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Select feature file screen.}}{14}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Result produced by Causcumber and display in the result section.}}{14}{}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Choose different input value, and save it into a feature file.}}{15}{}%
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces A feature file example.}}{8}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A feature file example.}}{9}{}%
