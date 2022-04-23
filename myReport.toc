@@ -2,17 +2,27 @@
 \contentsline {section}{\numberline {1.1}Aims and Objectives}{2}{}%
 \contentsline {section}{\numberline {1.2}Overview of the Report}{2}{}%
 \contentsline {chapter}{\numberline {2}Literature Survey}{4}{}%
-\contentsline {section}{\numberline {2.1}Computational model}{4}{}%
-\contentsline {subsection}{\numberline {2.1.1}Aspects of computational model}{4}{}%
+\contentsline {section}{\numberline {2.1}Computational models}{4}{}%
+\contentsline {subsection}{\numberline {2.1.1}Introduction to computational model}{4}{}%
 \contentsline {subsection}{\numberline {2.1.2}Purpose of computational model}{5}{}%
-\contentsline {section}{\numberline {2.2}Testing computational model}{6}{}%
+\contentsline {section}{\numberline {2.2}Testing computational models}{6}{}%
 \contentsline {subsection}{\numberline {2.2.1}Why computational models are hard to test}{6}{}%
-\contentsline {subsection}{\numberline {2.2.2}Current testing method}{7}{}%
-\contentsline {subsection}{\numberline {2.2.3}Behavior-driven development with Behave}{7}{}%
-\contentsline {subsection}{\numberline {2.2.4}Causal testing}{9}{}%
-\contentsline {subsection}{\numberline {2.2.5}Testing computational model with causal testing}{10}{}%
-\contentsline {section}{\numberline {2.3}Summary}{10}{}%
+\contentsline {subsection}{\numberline {2.2.2}Current testing methods and its disadvantage}{7}{}%
+\contentsline {section}{\numberline {2.3}Advanced testing techniques for computational models}{7}{}%
+\contentsline {subsection}{\numberline {2.3.1}Behavior-driven Development with Behave}{7}{}%
+\contentsline {subsection}{\numberline {2.3.2}Causal testing}{10}{}%
+\contentsline {subsection}{\numberline {2.3.3}Testing computational model with causal testing}{10}{}%
+\contentsline {section}{\numberline {2.4}Summary}{11}{}%
 \contentsline {chapter}{\numberline {3}Analysis}{12}{}%
 \contentsline {section}{\numberline {3.1}Project Requirements}{13}{}%
-\contentsline {section}{\numberline {3.2}Analysis}{14}{}%
-\contentsline {section}{\numberline {3.3}Ethical, Professional and Legal Issues}{15}{}%
+\contentsline {section}{\numberline {3.2}Requirement analysis}{14}{}%
+\contentsline {chapter}{\numberline {4}Design}{15}{}%
+\contentsline {section}{\numberline {4.1}Design challenges}{15}{}%
+\contentsline {section}{\numberline {4.2}Design concept and process}{16}{}%
+\contentsline {chapter}{\numberline {5}Implementation and testing}{19}{}%
+\contentsline {section}{\numberline {5.1}Overview}{19}{}%
+\contentsline {section}{\numberline {5.2}Create and select scenario}{20}{}%
+\contentsline {section}{\numberline {5.3}Main screen}{22}{}%
+\contentsline {section}{\numberline {5.4}Edit .dot file}{22}{}%
+\contentsline {section}{\numberline {5.5}Setup background files}{25}{}%
+\contentsline {section}{\numberline {5.6}Edit .feature files}{26}{}%

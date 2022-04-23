@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  13 APR 2022 17:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  24 APR 2022 00:23
 entering extended mode
 **./myReport.tex
 (myReport.tex
@@ -94,11 +94,19 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen147
 \Gin@req@width=\dimen148
 )
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks18
+\float@box=\box50
+\@float@everytoks=\toks19
+\@floatcapt=\box51
+)
 (C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
 nd-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count197
-\l__pdf_internal_box=\box50
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box52
 ) (myReport.aux
 
 LaTeX Warning: Label `fig:figure1' multiply defined.
@@ -106,20 +114,20 @@ LaTeX Warning: Label `fig:figure1' multiply defined.
 )
 \openout1 = `myReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -159,17 +167,17 @@ LaTeX Font Info:    ... okay on input line 16.
 (C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
 pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
+\scratchcounter=\count199
 \scratchdimen=\dimen149
-\scratchbox=\box51
-\nofMPsegments=\count199
-\nofMParguments=\count266
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count267
+\scratchbox=\box53
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count268
 \MPscratchDim=\dimen150
-\MPnumerator=\count268
-\makeMPintoPDFobject=\count269
-\everyMPtoPDFconversion=\toks19
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks21
 )
 (C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
 opdf-base.sty
@@ -184,7 +192,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 <images/tuoslogo.png, id=1, 78.2925pt x 79.2561pt>
 File: images/tuoslogo.png Graphic file (type png)
 <use images/tuoslogo.png>
-Package pdftex.def Info: images/tuoslogo.png  used on input line 27.
+Package pdftex.def Info: images/tuoslogo.png  used on input line 28.
 (pdftex.def)             Requested size: 142.26378pt x 144.03468pt.
  [1
 
@@ -192,7 +200,7 @@ Package pdftex.def Info: images/tuoslogo.png  used on input line 27.
 
 {C:/Users/Stanley/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/
 tuoslogo.png>] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
@@ -235,13 +243,12 @@ f su-per-com-puter, these su-per-com-put-ers
  []
 
 
-Overfull \hbox (6.33893pt too wide) in paragraph at lines 3--7
-\OT1/cmr/m/n/10.95 There is a new test-ing method in de-vel-op-ment name Caus-c
-um-ber, it de-ter-mines the re-la-tion-ship
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
  []
 
@@ -249,13 +256,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
 
 ]
-Overfull \hbox (3.66228pt too wide) in paragraph at lines 19--26
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+
+Overfull \hbox (3.66228pt too wide) in paragraph at lines 20--27
 \OT1/cmr/m/n/10.95 In the third chap-ter, Re-quire-ments and Anal-y-sis, will b
 e mainly talk-ing about the re-quire-ments
  []
 
 
-Overfull \hbox (3.69264pt too wide) in paragraph at lines 19--26
+Overfull \hbox (3.69264pt too wide) in paragraph at lines 20--27
 \OT1/cmr/m/n/10.95 of test-ing pro-cess with dif-fer-ent mod-els us-ing the im-
 ple-mented user in-ter-face, each walk-through
  []
@@ -269,33 +281,46 @@ Overfull \hbox (5.7914pt too wide) in paragraph at lines 6--7
  []
 
 
-Overfull \hbox (15.08887pt too wide) in paragraph at lines 8--15
+Overfull \hbox (11.93564pt too wide) in paragraph at lines 9--15
+\OT1/cmr/m/n/10.95 Computational model use com-put-ers to sim-u-late and study 
+real life events by us-ing math-e-mat-ics,
+ []
+
+
+Overfull \hbox (15.08887pt too wide) in paragraph at lines 9--15
 \OT1/cmr/m/n/10.95 but it is also more com-pu-ta-tion-ally in-ten-sive. Com-par
 ed to em-pir-i-cal, it is eas-ier to ex-trap-o-la-tion,
  []
 
 
-Overfull \hbox (9.47179pt too wide) in paragraph at lines 8--15
+Overfull \hbox (15.98097pt too wide) in paragraph at lines 9--15
+\OT1/cmr/m/n/10.95 In terms of the im-ple-men-ta-tion of model, it is split int
+o two types, agent based and equation-based
+ []
+
+
+Overfull \hbox (9.47179pt too wide) in paragraph at lines 9--15
 \OT1/cmr/m/n/10.95 equa-tions, the model uses equa-tions to rep-re-sent re-la-t
 ion-ships be-tween ob-serv-ables(EQUATION
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--15
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
 
  []
 
 [4
 
-] [5] [6]
-Overfull \hbox (8.19427pt too wide) in paragraph at lines 40--41
-\OT1/cmr/m/n/10.95 Behavior-driven de-vel-op-ment is a de-vel-op-ment tech-niqu
-e that en-cour-ages col-lab-o-ra-tion be-tween
+]
+Overfull \hbox (9.624pt too wide) in paragraph at lines 17--20
+\OT1/cmr/m/n/10.95 An ex-am-ple of this kind of model is Co-v-asim [[]], this m
+odel is used heav-ily in the im-ple-men-ta-tion
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
+[5] [6]
+Overfull \hbox (8.19427pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10.95 Behavior-driven de-vel-op-ment is a de-vel-op-ment tech-niqu
+e that en-cour-ages col-lab-o-ra-tion be-tween
  []
 
 
@@ -304,60 +329,173 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
  []
 
 [7]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
 <figures/featureFile.png, id=51, 319.1925pt x 308.65312pt>
 File: figures/featureFile.png Graphic file (type png)
 <use figures/featureFile.png>
-Package pdftex.def Info: figures/featureFile.png  used on input line 47.
+Package pdftex.def Info: figures/featureFile.png  used on input line 49.
 (pdftex.def)             Requested size: 284.52756pt x 275.1337pt.
- [8 <./figures/featureFile.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
-<figures/stepFile.png, id=56, 468.24937pt x 112.16907pt>
+<figures/stepFile.png, id=55, 468.24937pt x 112.16907pt>
 File: figures/stepFile.png Graphic file (type png)
 <use figures/stepFile.png>
-Package pdftex.def Info: figures/stepFile.png  used on input line 57.
+Package pdftex.def Info: figures/stepFile.png  used on input line 59.
 (pdftex.def)             Requested size: 284.52756pt x 68.16115pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
 
  []
 
-[9 <./figures/stepFile.png>]) (chapters/chapter3.tex [10] [11]
+[9 <./figures/featureFile.png> <./figures/stepFile.png>] [10])
+(chapters/chapter3.tex [11]
 Chapter 3.
 
-Overfull \hbox (4.80795pt too wide) in paragraph at lines 2--6
-\OT1/cmr/m/n/10.95 of-ten causes de-vel-op-ers of those mod-els un-will-ing to 
-test their mod-els thor-oughly. Fur-ther-more,
+Overfull \hbox (0.16443pt too wide) in paragraph at lines 2--4
+\OT1/cmr/m/n/10.95 Computational mod-els are of-ten too large and com-plex when
+ test-ing with tra-di-tional meth-ods,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
+Overfull \hbox (5.79149pt too wide) in paragraph at lines 2--4
+\OT1/cmr/m/n/10.95 this of-ten causes de-vel-op-ers of those mod-els un-will-in
+g to test their mod-els thor-oughly[MODELS
  []
 
 <figures/Analysis.png, id=68, 679.53876pt x 357.335pt>
 File: figures/Analysis.png Graphic file (type png)
 <use figures/Analysis.png>
-Package pdftex.def Info: figures/Analysis.png  used on input line 9.
+Package pdftex.def Info: figures/Analysis.png  used on input line 7.
 (pdftex.def)             Requested size: 369.88582pt x 194.50107pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--38
+Underfull \hbox (badness 10000) in paragraph at lines 13--38
 
  []
 
 [12
 
-] [13 <./figures/Analysis.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
+ <./figures/Analysis.png>] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
 
  []
 
-[14]) (myReport.bbl [15]) [16
+) (chapters/chapter4.tex [14]
+Chapter 4.
+[15
+
+]
+<figures/mainMenu.png, id=83, 384.6872pt x 234.8775pt>
+File: figures/mainMenu.png Graphic file (type png)
+<use figures/mainMenu.png>
+Package pdftex.def Info: figures/mainMenu.png  used on input line 24.
+(pdftex.def)             Requested size: 284.52756pt x 173.73494pt.
+ [16 <./figures/mainMenu.png>]
+<figures/editDot2.png, id=88, 381.67593pt x 253.69781pt>
+File: figures/editDot2.png Graphic file (type png)
+<use figures/editDot2.png>
+Package pdftex.def Info: figures/editDot2.png  used on input line 32.
+(pdftex.def)             Requested size: 284.52756pt x 189.1309pt.
+<figures/editFeature1.png, id=89, 391.4625pt x 246.9225pt>
+File: figures/editFeature1.png Graphic file (type png)
+<use figures/editFeature1.png>
+Package pdftex.def Info: figures/editFeature1.png  used on input line 42.
+(pdftex.def)             Requested size: 284.52756pt x 179.47952pt.
+ [17 <./figures/editDot2.png>]
+<figures/editFeature2.png, id=94, 377.91188pt x 251.43938pt>
+File: figures/editFeature2.png Graphic file (type png)
+<use figures/editFeature2.png>
+Package pdftex.def Info: figures/editFeature2.png  used on input line 51.
+(pdftex.def)             Requested size: 284.52756pt x 189.30801pt.
+)
+(chapters/chapter5.tex [18 <./figures/editFeature1.png> <./figures/editFeature2
+.png>]
+Chapter 5.
+<figures/workFlow.png, id=100, 416.00418pt x 323.40825pt>
+File: figures/workFlow.png Graphic file (type png)
+<use figures/workFlow.png>
+Package pdftex.def Info: figures/workFlow.png  used on input line 8.
+(pdftex.def)             Requested size: 284.52756pt x 221.19774pt.
+[19
+
+]
+<figures/startScreen.png, id=105, 417.05812pt x 322.95656pt>
+File: figures/startScreen.png Graphic file (type png)
+<use figures/startScreen.png>
+Package pdftex.def Info: figures/startScreen.png  used on input line 18.
+(pdftex.def)             Requested size: 284.52756pt x 220.34181pt.
+ [20 <./figures/workFlow.png>]
+<figures/createNewScenario.png, id=110, 417.05812pt x 321.45094pt>
+File: figures/createNewScenario.png Graphic file (type png)
+<use figures/createNewScenario.png>
+Package pdftex.def Info: figures/createNewScenario.png  used on input line 25.
+(pdftex.def)             Requested size: 284.52756pt x 219.31458pt.
+<figures/mainScreen.png, id=111, 417.05812pt x 322.20375pt>
+File: figures/mainScreen.png Graphic file (type png)
+<use figures/mainScreen.png>
+Package pdftex.def Info: figures/mainScreen.png  used on input line 35.
+(pdftex.def)             Requested size: 284.52756pt x 219.82819pt.
+ [21 <./figures/startScreen.png> <./figures/createNewScenario.png>]
+<figures/dotExample.png, id=117, 506.89375pt x 927.465pt>
+File: figures/dotExample.png Graphic file (type png)
+<use figures/dotExample.png>
+Package pdftex.def Info: figures/dotExample.png  used on input line 45.
+(pdftex.def)             Requested size: 284.52756pt x 520.60808pt.
+ [22 <./figures/mainScreen.png>]
+<figures/editDot1Screen.png, id=122, 417.05812pt x 322.95656pt>
+File: figures/editDot1Screen.png Graphic file (type png)
+<use figures/editDot1Screen.png>
+Package pdftex.def Info: figures/editDot1Screen.png  used on input line 52.
+(pdftex.def)             Requested size: 284.52756pt x 220.34181pt.
+ [23 <./figures/dotExample.png>]
+<figures/editDot2Screen.png, id=126, 417.05812pt x 320.69812pt>
+File: figures/editDot2Screen.png Graphic file (type png)
+<use figures/editDot2Screen.png>
+Package pdftex.def Info: figures/editDot2Screen.png  used on input line 60.
+(pdftex.def)             Requested size: 284.52756pt x 218.80095pt.
+ [24 <./figures/editDot1Screen.png>]
+Overfull \hbox (33.1968pt too wide) in paragraph at lines 66--70
+\OT1/cmr/m/n/10.95 uses SciPy, an open-source soft-ware for math-e-mat-ics, sci
+-ence, and en-gi-neer-ing [SciPy REF-ER-ENCE],
+ []
+
+[25 <./figures/editDot2Screen.png>]
+<figures/editFeature1Screen.png, id=136, 417.05812pt x 323.70938pt>
+File: figures/editFeature1Screen.png Graphic file (type png)
+<use figures/editFeature1Screen.png>
+Package pdftex.def Info: figures/editFeature1Screen.png  used on input line 77.
+
+(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
+
+Overfull \hbox (2.34418pt too wide) in paragraph at lines 72--80
+\OT1/cmr/m/n/10.95 list edges, sce-nario out-line and sce-nario. In back-ground
+, user will need to de-fine the pa-ram-e-ters
+ []
+
+[26]
+<figures/editFeature2Screen.png, id=140, 417.05812pt x 321.45094pt>
+File: figures/editFeature2Screen.png Graphic file (type png)
+<use figures/editFeature2Screen.png>
+Package pdftex.def Info: figures/editFeature2Screen.png  used on input line 85.
+
+(pdftex.def)             Requested size: 284.52756pt x 219.31458pt.
+ [27 <./figures/editFeature1Screen.png>]
+<figures/editFeature3Screen.png, id=145, 417.05812pt x 323.70938pt>
+File: figures/editFeature3Screen.png Graphic file (type png)
+<use figures/editFeature3Screen.png>
+Package pdftex.def Info: figures/editFeature3Screen.png  used on input line 92.
+
+(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
+) (myReport.bbl [28 <./figures/editFeature2Screen.png> <./figures/editFeature3S
+creen.png>]) [29
 
 ] (myReport.aux)
 
@@ -365,13 +503,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2046 strings out of 478893
- 32421 string characters out of 2848032
- 337208 words of memory out of 3000000
- 19901 multiletter control sequences out of 15000+600000
+ 2233 strings out of 478893
+ 36572 string characters out of 2848032
+ 338409 words of memory out of 3000000
+ 20064 multiletter control sequences out of 15000+600000
  410545 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,66p,1653b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,7n,66p,1653b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX
@@ -383,9 +521,9 @@ ts/cm/cmbx10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 ic/amsfonts/cm/cmsl10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Stanley/AppData/Local/Progra
 ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on myReport.pdf (22 pages, 295832 bytes).
+Output written on myReport.pdf (35 pages, 583828 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 194 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

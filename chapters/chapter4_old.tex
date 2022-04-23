@@ -1,0 +1,69 @@
+\chapter{Planning}
+
+\section{Risk Analysis}
+
+The main purpose of this system will be providing a tool for people to test computational models. Researchers can use this system to test if the model is working as intended and companies or others who want to use the model can use it to see the model’s accuracy. The following are the stake-holder of this project:\\*
+
+1.	Developers of the Causcumber project
+
+2.	Researchers who will be using Causcumber to test their model
+
+3.	Organization that uses this tool to check their model’s accuracy
+\\*
+\\*
+One of the main goals of this model is to return a clear and correct result for the user, if the returned result is incorrect or misleading. This might affect the development of the computational models that use this tool for testing, the result might end up being inaccurate and people who use these results for scientific research or other purposes may be affected by this mistake. 
+
+\section{Project Plan}
+
+For this project, I plan to start with understanding how Causcumber works, what kind of result it produces. Then, following by understanding how Behave and Cucumber functions in the system, by understanding how these tools work, it would benefit a lot for future planning. \\*
+The next phase will be designing the user interface for Causcumber, this phase will focus on the design for user interface and making sure it is easy to understand, and easy to operate. \\*
+After the design the is done, I plan start implement the system, combine the system with the interface, in this phase will be working in Scrum method, where the project will focus on rapidly adding or change function based on feedback, this is the current phase where the project is in right now, a list of features is either being implanting or will be implement in the near future. \\*
+The last phase will be polishing the system, focusing on debugging, and making sure the system runs smoothly.
+Below is a Gantt chart showing the plan and approximate time for different phase:\\*
+
+Green: Completed
+
+Blue: In progress
+
+Grey: To do
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=16cm]{figures/Gantt_chart.png}\\
+	\caption{Project plan display in gantt chart.}
+	\label{fig:figure3}
+\end{figure}
+
+
+\section{Current progress}
+
+This project already has some progress, I have grasp on how Causcumber work and have move into the scrum phase where a user interface being develop and adding or adjust functions according to feedback, below will be some figure showing the current progress of the system:
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=9.7cm]{figures/Gui_overview.png}\\
+	\caption{An overview of the user interface.}
+	\label{fig:figure4}
+\end{figure}\\
+This is an overview of the user interface, the left part will display the result, and the right part is where the users can custom their feature file.\clearpage
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=10cm]{figures/select_feature_file.png}\\
+	\caption{Select feature file screen.}
+	\label{fig:figure5}
+\end{figure}
+\noindent User can select which feature file they want to execute, then Causcumber will load and produce the result into a xml file.
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=9.8cm]{figures/Result_display.png}\\
+	\caption{Result produced by Causcumber and display in the result section.}
+	\label{fig:figure6}
+\end{figure}\\
+After Causcumber loads the feature file and produces it to the xml file, the system can read from the xml file, retrieve the useful information and remove the unwanted ones. Users then can view the input parameters and how accurate a parameter in the computational models are.
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=10cm]{figures/Input_section.png}\\
+	\caption{Choose different input value, and save it into a feature file.}
+	\label{fig:figure7}
+\end{figure}
+\newpage \noindent On the right side of the interface, users can create their own feature file with their own parameter to test the system, the system will compile the input value and save as a new feature file.
+
