@@ -20,3 +20,19 @@
 \contentsline {figure}{\numberline {5.8}{\ignorespaces Edit first section of .feature file.}}{27}{}%
 \contentsline {figure}{\numberline {5.9}{\ignorespaces Edit scenario outline section of .feature file.}}{28}{}%
 \contentsline {figure}{\numberline {5.10}{\ignorespaces Edit scenario section of .feature file.}}{28}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Creating new scenario for influenza1918.}}{30}{}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Select “Edit dot files” function.}}{30}{}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Edit graph for input parameters.}}{31}{}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Graphviz for input parameters graph.}}{32}{}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Edit relation for parameters.}}{33}{}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Drop-down menu for select parameter.}}{34}{}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Relations of parameters presented in Graphviz graph.}}{35}{}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Edit background files for testing influenza1918.}}{35}{}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Edit background files for testing influenza1918.}}{36}{}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Edit initial parameters name, type and value/distribution in influenza1918.}}{36}{}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Edit recorded parameters name and type in influenza1918.}}{36}{}%
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Edit scenario for influenza1918.}}{37}{}%
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Select “Select feature files” function.}}{38}{}%
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Select newly created feature file.}}{38}{}%
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Result produced by Causcumber display in result section.}}{39}{}%
