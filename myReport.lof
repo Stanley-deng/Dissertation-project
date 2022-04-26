@@ -21,7 +21,7 @@
 \contentsline {figure}{\numberline {5.9}{\ignorespaces Edit scenario outline section of .feature file.}}{28}{}%
 \contentsline {figure}{\numberline {5.10}{\ignorespaces Edit scenario section of .feature file.}}{28}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Creating new scenario for influenza1918.}}{30}{}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Creating new scenario for influenza1918.}}{29}{}%
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Select “Edit dot files” function.}}{30}{}%
 \contentsline {figure}{\numberline {6.3}{\ignorespaces Edit graph for input parameters.}}{31}{}%
 \contentsline {figure}{\numberline {6.4}{\ignorespaces Graphviz for input parameters graph.}}{32}{}%
@@ -36,3 +36,10 @@
 \contentsline {figure}{\numberline {6.13}{\ignorespaces Select “Select feature files” function.}}{38}{}%
 \contentsline {figure}{\numberline {6.14}{\ignorespaces Select newly created feature file.}}{38}{}%
 \contentsline {figure}{\numberline {6.15}{\ignorespaces Result produced by Causcumber display in result section.}}{39}{}%
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Input and output graph for testing Covasim.}}{40}{}%
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Relation for parameters for testing Covasim.}}{41}{}%
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Background for testing Covasim.}}{42}{}%
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Select add additional edges.}}{42}{}%
+\contentsline {figure}{\numberline {6.20}{\ignorespaces Scenario outline for testing Covasim.}}{43}{}%
+\contentsline {figure}{\numberline {6.21}{\ignorespaces Result produced by using assisting tool.}}{43}{}%
+\addvspace {10\p@ }

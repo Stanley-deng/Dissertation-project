@@ -1,44 +1,46 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.11.24)  25 APR 2022 10:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  27 APR 2022 00:24
 entering extended mode
 **./myReport.tex
 (myReport.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> xparse <2020-03-03>
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls
-Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk11.clo
-File: bk11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls
+Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk11.clo
+File: bk11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count179
-\c@chapter=\count180
-\c@section=\count181
-\c@subsection=\count182
-\c@subsubsection=\count183
-\c@paragraph=\count184
-\c@subparagraph=\count185
-\c@figure=\count186
-\c@table=\count187
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
-ty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks16
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.st
+y
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count188
-\Gm@cntv=\count189
-\c@Gm@tempcnt=\count190
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -47,64 +49,64 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutheight=\dimen144
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
-\Gm@dimlist=\toks16
+\Gm@dimlist=\toks17
 
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
-fg))
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.s
-ty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg))
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace
+.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendix\appendix.s
-ty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendix\appendix
+.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count191
-\c@@ppsavesec=\count192
-\c@@ppsaveapp=\count193
+\c@@pps=\count194
+\c@@ppsavesec=\count195
+\c@@ppsaveapp=\count196
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyphenat\hyphenat.s
-ty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyphenat\hyphenat
+.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language83
 LaTeX Info: Redefining \_ on input line 43.
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
-ty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
-ty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
-cs.cfg
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
-.def
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen147
 \Gin@req@width=\dimen148
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count194
-\float@exts=\toks17
-\float@box=\box47
-\@float@everytoks=\toks18
-\@floatcapt=\box48
+\c@float@type=\count197
+\float@exts=\toks18
+\float@box=\box50
+\@float@everytoks=\toks19
+\@floatcapt=\box51
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
--pdftex.def
-File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count195
-\l__pdf_internal_box=\box49
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
+nd-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box52
 ) (myReport.aux
 
 LaTeX Warning: Label `fig:figure1' multiply defined.
@@ -162,27 +164,31 @@ LaTeX Font Info:    ... okay on input line 17.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
-f.mkii
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count196
+\scratchcounter=\count199
 \scratchdimen=\dimen149
-\scratchbox=\box50
-\nofMPsegments=\count197
-\nofMParguments=\count198
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count199
+\scratchbox=\box53
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count268
 \MPscratchDim=\dimen150
-\MPnumerator=\count266
-\makeMPintoPDFobject=\count267
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks21
 )
-(C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
-df-base.sty
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
+
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\epstopdf
+-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 <images/tuoslogo.png, id=1, 78.2925pt x 79.2561pt>
 File: images/tuoslogo.png Graphic file (type png)
 <use images/tuoslogo.png>
@@ -192,8 +198,8 @@ Package pdftex.def Info: images/tuoslogo.png  used on input line 28.
 
 
 
-{C:/Users/stanl/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/tu
-oslogo.png>] [2]
+{C:/Users/Stanley/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/
+tuoslogo.png>] [2]
 Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
@@ -491,66 +497,61 @@ Package pdftex.def Info: figures/editFeature3Screen.png  used on input line 92.
 ) (chapters/chapter6.tex [28 <./figures/editFeature2Screen.png> <./figures/edit
 Feature3Screen.png>]
 Chapter 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
-
- []
-
 <figures/influenzaTestProcess1.png, id=157, 417.05812pt x 323.70938pt>
 File: figures/influenzaTestProcess1.png Graphic file (type png)
 <use figures/influenzaTestProcess1.png>
 Package pdftex.def Info: figures/influenzaTestProcess1.png  used on input line 
-11.
-(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
-[29
-
-]
+10.
+(pdftex.def)             Requested size: 227.62204pt x 176.67743pt.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-5.
- (C:\Users\stanl\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd
+4.
+(C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
-<figures/influenzaTestProcess2.png, id=162, 417.05812pt x 322.95656pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+<figures/influenzaTestProcess2.png, id=158, 417.05812pt x 322.95656pt>
 File: figures/influenzaTestProcess2.png Graphic file (type png)
 <use figures/influenzaTestProcess2.png>
 Package pdftex.def Info: figures/influenzaTestProcess2.png  used on input line 
-18.
+17.
 (pdftex.def)             Requested size: 284.52756pt x 220.34181pt.
-<figures/influenzaTestProcess3.png, id=163, 417.05812pt x 496.10344pt>
+
+[29
+
+ <./figures/influenzaTestProcess1.png>]
+<figures/influenzaTestProcess3.png, id=164, 417.05812pt x 496.10344pt>
 File: figures/influenzaTestProcess3.png Graphic file (type png)
 <use figures/influenzaTestProcess3.png>
 Package pdftex.def Info: figures/influenzaTestProcess3.png  used on input line 
-25.
+24.
 (pdftex.def)             Requested size: 284.52756pt x 338.47379pt.
- [30 <./figures/influenzaTestProcess1.png> <./figures/influenzaTestProcess2.png
->]
-<figures/influenzaTestProcess4.png, id=169, 417.05812pt x 474.27188pt>
+<figures/influenzaTestProcess4.png, id=165, 417.05812pt x 474.27188pt>
 File: figures/influenzaTestProcess4.png Graphic file (type png)
 <use figures/influenzaTestProcess4.png>
 Package pdftex.def Info: figures/influenzaTestProcess4.png  used on input line 
-31.
+30.
 (pdftex.def)             Requested size: 284.52756pt x 323.57889pt.
- [31 <./figures/influenzaTestProcess3.png>]
+ [30 <./figures/influenzaTestProcess2.png>] [31 <./figures/influenzaTestProcess
+3.png>]
 <figures/influenzaTestProcess5.png, id=174, 417.05812pt x 322.95656pt>
 File: figures/influenzaTestProcess5.png Graphic file (type png)
 <use figures/influenzaTestProcess5.png>
 Package pdftex.def Info: figures/influenzaTestProcess5.png  used on input line 
-38.
+37.
 (pdftex.def)             Requested size: 284.52756pt x 220.34181pt.
  [32 <./figures/influenzaTestProcess4.png>]
 <figures/influenzaTestProcess6.png, id=179, 417.05812pt x 529.22719pt>
 File: figures/influenzaTestProcess6.png Graphic file (type png)
 <use figures/influenzaTestProcess6.png>
 Package pdftex.def Info: figures/influenzaTestProcess6.png  used on input line 
-45.
+44.
 (pdftex.def)             Requested size: 284.52756pt x 361.07295pt.
 <figures/influenzaTestProcess7.png, id=180, 417.05812pt x 323.70938pt>
 File: figures/influenzaTestProcess7.png Graphic file (type png)
 <use figures/influenzaTestProcess7.png>
 Package pdftex.def Info: figures/influenzaTestProcess7.png  used on input line 
-51.
+50.
 (pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
  [33 <./figures/influenzaTestProcess5.png>] [34 <./figures/influenzaTestProcess
 6.png>]
@@ -558,16 +559,16 @@ Package pdftex.def Info: figures/influenzaTestProcess7.png  used on input line
 File: figures/influenzaTestProcess8.png Graphic file (type png)
 <use figures/influenzaTestProcess8.png>
 Package pdftex.def Info: figures/influenzaTestProcess8.png  used on input line 
-59.
+58.
 (pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
 <figures/influenzaTestProcess9.png, id=190, 417.05812pt x 323.70938pt>
 File: figures/influenzaTestProcess9.png Graphic file (type png)
 <use figures/influenzaTestProcess9.png>
 Package pdftex.def Info: figures/influenzaTestProcess9.png  used on input line 
-67.
+66.
 (pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
 
-Overfull \hbox (1.36592pt too wide) in paragraph at lines 63--70
+Overfull \hbox (1.36592pt too wide) in paragraph at lines 62--69
 []\OT1/cmr/m/n/10.95 In en-vi-ron-ment.py, edit the run[]-in-fluenza1918 func-t
 ion to ex-e-cute the in-fluenza1918 model.
  []
@@ -578,19 +579,19 @@ ion to ex-e-cute the in-fluenza1918 model.
 File: figures/influenzaTestProcess10.png Graphic file (type png)
 <use figures/influenzaTestProcess10.png>
 Package pdftex.def Info: figures/influenzaTestProcess10.png  used on input line
- 74.
+ 73.
 (pdftex.def)             Requested size: 284.52756pt x 104.77791pt.
 <figures/influenzaTestProcess11.png, id=197, 417.05812pt x 46.67438pt>
 File: figures/influenzaTestProcess11.png Graphic file (type png)
 <use figures/influenzaTestProcess11.png>
 Package pdftex.def Info: figures/influenzaTestProcess11.png  used on input line
- 81.
+ 80.
 (pdftex.def)             Requested size: 284.52756pt x 31.84425pt.
 <figures/influenzaTestProcess12.png, id=198, 417.05812pt x 472.76625pt>
 File: figures/influenzaTestProcess12.png Graphic file (type png)
 <use figures/influenzaTestProcess12.png>
 Package pdftex.def Info: figures/influenzaTestProcess12.png  used on input line
- 88.
+ 87.
 (pdftex.def)             Requested size: 284.52756pt x 322.55165pt.
  [36 <./figures/influenzaTestProcess9.png> <./figures/influenzaTestProcess10.pn
 g> <./figures/influenzaTestProcess11.png>]
@@ -598,24 +599,74 @@ g> <./figures/influenzaTestProcess11.png>]
 File: figures/influenzaTestProcess13.png Graphic file (type png)
 <use figures/influenzaTestProcess13.png>
 Package pdftex.def Info: figures/influenzaTestProcess13.png  used on input line
- 95.
+ 94.
 (pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
 <figures/influenzaTestProcess14.png, id=205, 417.05812pt x 311.66437pt>
 File: figures/influenzaTestProcess14.png Graphic file (type png)
 <use figures/influenzaTestProcess14.png>
 Package pdftex.def Info: figures/influenzaTestProcess14.png  used on input line
- 101.
+ 100.
 (pdftex.def)             Requested size: 284.52756pt x 212.63754pt.
  [37 <./figures/influenzaTestProcess12.png>]
 <figures/influenzaTestProcess15.png, id=210, 417.05812pt x 241.65282pt>
 File: figures/influenzaTestProcess15.png Graphic file (type png)
 <use figures/influenzaTestProcess15.png>
 Package pdftex.def Info: figures/influenzaTestProcess15.png  used on input line
- 108.
+ 107.
 (pdftex.def)             Requested size: 284.52756pt x 164.87114pt.
  [38 <./figures/influenzaTestProcess13.png> <./figures/influenzaTestProcess14.p
-ng>]) (myReport.bbl [39 <./figures/influenzaTestProcess15.png>])
-[40
+ng>] [39 <./figures/influenzaTestProcess15.png>]
+<figures/CovasimTestProcess1.png, id=218, 417.05812pt x 325.96782pt>
+File: figures/CovasimTestProcess1.png Graphic file (type png)
+<use figures/CovasimTestProcess1.png>
+Package pdftex.def Info: figures/CovasimTestProcess1.png  used on input line 12
+3.
+(pdftex.def)             Requested size: 284.52756pt x 222.39627pt.
+<figures/CovasimTestProcess2.png, id=219, 417.05812pt x 328.97906pt>
+File: figures/CovasimTestProcess2.png Graphic file (type png)
+<use figures/CovasimTestProcess2.png>
+Package pdftex.def Info: figures/CovasimTestProcess2.png  used on input line 13
+0.
+(pdftex.def)             Requested size: 284.52756pt x 224.45074pt.
+ [40 <./figures/CovasimTestProcess1.png>]
+<figures/CovasimTestProcess3.png, id=224, 417.05812pt x 313.9228pt>
+File: figures/CovasimTestProcess3.png Graphic file (type png)
+<use figures/CovasimTestProcess3.png>
+Package pdftex.def Info: figures/CovasimTestProcess3.png  used on input line 13
+8.
+(pdftex.def)             Requested size: 284.52756pt x 214.17839pt.
+
+Overfull \hbox (0.22223pt too wide) in paragraph at lines 134--141
+[]\OT1/cmr/m/n/10.95 Next is to de-fine the three-background file, in \OT1/cmr/
+m/sl/10.95 ab-stract.py\OT1/cmr/m/n/10.95 , there are two cus-tom con-straints
+ []
+
+[41 <./figures/CovasimTestProcess2.png>]
+<figures/CovasimTestProcess4.png, id=230, 417.05812pt x 315.42844pt>
+File: figures/CovasimTestProcess4.png Graphic file (type png)
+<use figures/CovasimTestProcess4.png>
+Package pdftex.def Info: figures/CovasimTestProcess4.png  used on input line 14
+5.
+(pdftex.def)             Requested size: 284.52756pt x 215.20563pt.
+<figures/CovasimTestProcess5.png, id=231, 417.05812pt x 313.9228pt>
+File: figures/CovasimTestProcess5.png Graphic file (type png)
+<use figures/CovasimTestProcess5.png>
+Package pdftex.def Info: figures/CovasimTestProcess5.png  used on input line 15
+2.
+(pdftex.def)             Requested size: 284.52756pt x 214.17839pt.
+ [42 <./figures/CovasimTestProcess3.png> <./figures/CovasimTestProcess4.png>]
+<figures/CovasimTestProcess6.png, id=236, 417.05812pt x 314.67563pt>
+File: figures/CovasimTestProcess6.png Graphic file (type png)
+<use figures/CovasimTestProcess6.png>
+Package pdftex.def Info: figures/CovasimTestProcess6.png  used on input line 15
+9.
+(pdftex.def)             Requested size: 284.52756pt x 214.69202pt.
+ [43 <./figures/CovasimTestProcess5.png> <./figures/CovasimTestProcess6.png>]) 
+(chapters/chapter7.tex [44]
+Chapter 7.
+) (myReport.bbl [45
+
+]) [46
 
 ] (myReport.aux)
 
@@ -623,28 +674,28 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2288 strings out of 479300
- 38392 string characters out of 2853551
- 331930 words of memory out of 3000000
- 19696 multiletter control sequences out of 15000+200000
- 410545 words of font info for 50 fonts, out of 3000000 for 9000
+ 2430 strings out of 478893
+ 42805 string characters out of 2848032
+ 340752 words of memory out of 3000000
+ 20231 multiletter control sequences out of 15000+600000
+ 410545 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,74p,1653b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/stanl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/stanl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/stanl/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/stanl/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/stanl/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sta
-nl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><
-C:/Users/stanl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsl10.pfb><C:/Users/stanl/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><C:/Users/stanl/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/stanl/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on myReport.pdf (48 pages, 997101 bytes).
+ 57i,7n,66p,1653b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Stanley/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Stanley
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr17.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsl10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Stanley/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Stanley/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on myReport.pdf (54 pages, 1234556 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
+ 297 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
