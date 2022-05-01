@@ -1,5 +1,5 @@
 \chapter{Analysis}
-Computational models are often too large and complex when testing with traditional methods, this often causes developers of those models unwilling to test their models thoroughly[MODELS NOT TESTED RIGHT REFERENCE]. Furthermore, computational model developers are often scientists or researchers that don’t have extensive knowledge in software testing. Causal model testing combines with Behave can be a powerful tool to test computational model, but even with this method there’s still require tester to learn a certain syntax. It may still be difficult to encourage people who don’t have software engineering background to participate in testing. \\*\\*
+Computational models are often too large and complex when testing with traditional methods, this often causes developers of those models unwilling to test their models thoroughly \cite{Reference10}. Furthermore, computational model developers are often scientists or researchers that don’t have extensive knowledge in software testing. Causal model testing combines with Behave can be a powerful tool to test computational model, but even with this method there’s still require tester to learn a certain syntax. It may still be difficult to encourage people who don’t have software engineering background to participate in testing. \\*\\*
 To encourage more people to participate in testing, a way to simplify the process is needed. By reduce the need for tester to program and assist the process in creating test case, this can encourage people to test models with this tool. 
 
 \begin{figure}[H]
@@ -10,7 +10,8 @@ To encourage more people to participate in testing, a way to simplify the proces
 \end{figure}
 
 \section{Project Requirements}
-The goal of this project is to develop a tool that simplify the testing process of using Causcumber, a tool that help testers who aren’t trained in software to test a computational model. This tool should be able to assist tester in the process by reduce the need for tester interact with the coding part of testing directly. After that, this tool should be able to execute the feature file they have written, the system will examine the feature file and go through the computational model to check if the model performs as the test specifies. As a result, the system should produce a coherent result detailing the accuracy of the tested model. Thus, the systems need to accomplish the following:\\*
+Causcumber, is a tool that helps testers who aren’t trained in software to test a computational model, the goal of this project is to develop a tool that simplify the testing process of using Causcumber. In order to achieve this goal, first will need to understand how Causcumber work, Causcumber itself is a complex tool, it consist of codes from other API(Behave, Cucumber), and it also require to user follow various steps to test a model, this reverse engineering process need to be done in order to start working on the assist tool itself.\\*\\*
+As for the assisting tool, it should be able to assist tester in the process by reduce the need for tester interact with the coding part of testing directly. After that, this tool should be able to execute the feature file they have written, the system will examine the feature file and go through the computational model to check if the model performs as the test specifies. As a result, the system should produce a coherent result detailing the accuracy of the tested model. Thus, the systems need to accomplish the following:\\*
 \\*
 R1. As a user, I want this system to be easy to understand, when I use the system, I want to immediate know what I need to do to get the result I want.\\*
 \\*
@@ -37,8 +38,9 @@ To simplify and streamline the testing process, this tool should reduce the need
 \\*
 
 \section{Requirement analysis}
-The main theme for this project is simplify and ease of use, and therefore that’s what most of the requirements are focused on. For requirement R 1 – 4, the goal is to make the testing process as simple as possible, with a simplified testing process, people will be more willing to test their computational model with this tool. \\*\\*
+The first step of this project is to understand the workflow of Causcumber. To test a model, user will need to define several files to start the testing, in these files user will also need to define various aspect to test it. Organize and understand the purpose of these file will be the first step. Since the main theme for this project is simplify and ease of use, and therefore that’s what most of the requirements are focused on. For requirement R 1 – 4, the goal is to make the testing process as simple as possible, with a simplified testing process, people will be more willing to test their computational model with this tool. \\*\\*
 To enhance the user experience for Causcumber, requirement 1, 2, 3 are aimed to achieve this. These requirements make using Causcumber to test computational models a more convenient experience. \\*\\
-Since integrating the causal model testing can be difficult and confusing, requirements 4, 5, 6 are focused on simplifying this process, by making testing with Causcumber less code demanded, this should help mitigate a lot of errors and further simplify the testing process. 
+Since integrating the causal model testing can be difficult and confusing, requirements 4, 5, 6 are focused on simplifying this process, by making testing with Causcumber less code demanded, this should help mitigate a lot of errors and further simplify the testing process.
+
 
 

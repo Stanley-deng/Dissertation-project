@@ -5,61 +5,124 @@ Computational modeling.
 \newblock {\em National Institute of Biomedical Imaging and Bioengineering\/}
   (May 2020), 1.
 
-\bibitem{Reference8}
+\bibitem{Reference13}
 {\sc Benno~Rice, R.~J., and Engel, J.}
 \newblock Behavior driven development.
 
-\bibitem{Reference12}
+\bibitem{Reference6}
+{\sc Bonabeau, E.}
+\newblock Agent-based modeling: Methods and techniques for simulating human
+  systems.
+\newblock {\em Proceedings of the National Academy of Sciences 99}, suppl\_3
+  (2002), 7280--7287.
+
+\bibitem{Reference17}
 {\sc Brittany~Johnson, Yuriy~Brun, A.~M.}
 \newblock Causal testing: Finding defects' root causes.
 \newblock 123 -- 146.
 
-\bibitem{Reference5}
+\bibitem{Reference12}
+{\sc Carley, K.~M.}
+\newblock Validating computational models.
+
+\bibitem{Reference2}
+{\sc Clark, A.~G., Walkinshaw, N., and Hierons, R.~M.}
+\newblock Test case generation for agent-based models: A systematic literature
+  review.
+\newblock {\em Information and Software Technology 135\/} (2021), 106567.
+
+\bibitem{Reference9}
 {\sc Cliff C.~Kerr, Robyn M.~Stuart, e.}
 \newblock Covasim: An agent-based model of covid-19 dynamics and interventions.
 \newblock {\em PLOS Computational Biology\/} (July 2018).
 
-\bibitem{Reference13}
+\bibitem{Reference21}
+{\sc Foster, M., C. A. T.~R., and Wild, C.}
+\newblock Citcom-project/causcumber.
+
+\bibitem{Reference19}
 {\sc Gaskin, P. B. L.~J.}
 \newblock Partial least squares (pls) structural equation modeling (sem) for
   building and testing behavioral causal theory: When to choose it and how to
   use it.
 
-\bibitem{Reference11}
+\bibitem{Reference5}
+{\sc Global, C.}
+\newblock All models are not born equal - empirical vs. mechanistic models -
+  creme global.
+
+\bibitem{Reference16}
 {\sc Hitchcock, C.}
 \newblock Causal models.
 
-\bibitem{Reference3}
+\bibitem{Reference18}
+{\sc Johnson, B., Brun, Y., and Meliou, A.}
+\newblock Causal testing: Understanding defects' root causes.
+\newblock 87--99.
+
+\bibitem{Reference4}
 {\sc Kerr~CC, Stuart~RM, M. D.~e.}
 \newblock Covasim.
 
-\bibitem{Reference9}
+\bibitem{Reference20}
+{\sc Kivy.org.}
+\newblock Introduction — kivy 2.1.0 documentation.
+
+\bibitem{Reference14}
 {\sc Marit~van Dijk, Aslak~Hellesoy, e.}
 \newblock Cucumber.
 
-\bibitem{Reference10}
+\bibitem{Reference15}
 {\sc Marit~van Dijk, Aslak~Hellesoy, e.}
 \newblock Gherkin reference.
 
-\bibitem{Reference4}
+\bibitem{Reference8}
 {\sc Muffy~Calder, Claire~Craig, e.}
 \newblock Computational modelling for decision-making: where, why, what, who
   and how.
 \newblock {\em Royal Society Open Science\/} (June 2018).
 
-\bibitem{Reference2}
+\bibitem{Reference23}
+{\sc Progclub.org.}
+\newblock Metasyntactic variable.
+
+\bibitem{Reference3}
 {\sc Robert C~Wilson, A. G.~C.}
 \newblock Ten simple rules for the computational modeling of behavioral data.
 \newblock {\em eLife\/} (November 2019), 1.
 
-\bibitem{Reference7}
+\bibitem{Reference11}
 {\sc Segal, J.}
 \newblock Scientists and software engineers: A tale of two cultures.
 \newblock {\em Open research Online}, 1 (2008), 2.
 
-\bibitem{Reference6}
+\bibitem{Reference24}
+{\sc Sukumar, S.~R., and Nutaro, J.~J.}
+\newblock Agent-based vs. equation-based epidemiological models: A model
+  selection case study.
+\newblock 74--79.
+
+\bibitem{Reference10}
 {\sc Upulee~Kanewala, J.~M.}
 \newblock Testing scientific software: A systematic literature review.
 \newblock {\em ScienceDirect\/} (May 2014).
+
+\bibitem{Reference7}
+{\sc Van Dyke~Parunak, H., Savit, R., and Riolo, R.~L.}
+\newblock Agent-based modeling vs. equation-based modeling: A case study and
+  users' guide.
+\newblock 10--25.
+
+\bibitem{Reference22}
+{\sc Virtanen, P., Gommers, R., Oliphant, T.~E., Haberland, M., Reddy, T.,
+  Cournapeau, D., Burovski, E., Peterson, P., Weckesser, W., Bright, J., {van
+  der Walt}, S.~J., Brett, M., Wilson, J., Millman, K.~J., Mayorov, N., Nelson,
+  A. R.~J., Jones, E., Kern, R., Larson, E., Carey, C.~J., Polat, {\.I}., Feng,
+  Y., Moore, E.~W., {VanderPlas}, J., Laxalde, D., Perktold, J., Cimrman, R.,
+  Henriksen, I., Quintero, E.~A., Harris, C.~R., Archibald, A.~M., Ribeiro,
+  A.~H., Pedregosa, F., {van Mulbregt}, P., and {SciPy 1.0 Contributors}}.
+\newblock {{SciPy} 1.0: Fundamental Algorithms for Scientific Computing in
+  Python}.
+\newblock {\em Nature Methods 17\/} (2020), 261--272.
 
 \end{thebibliography}

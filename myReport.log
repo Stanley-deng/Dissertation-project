@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  27 APR 2022 00:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  1 MAY 2022 23:59
 entering extended mode
 **./myReport.tex
 (myReport.tex
@@ -109,7 +109,7 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box52
 ) (myReport.aux
 
-LaTeX Warning: Label `fig:figure1' multiply defined.
+LaTeX Warning: Label `fig:figure2' multiply defined.
 
 )
 \openout1 = `myReport.aux'.
@@ -266,12 +266,6 @@ Overfull \hbox (3.66228pt too wide) in paragraph at lines 20--27
 e mainly talk-ing about the re-quire-ments
  []
 
-
-Overfull \hbox (3.69264pt too wide) in paragraph at lines 20--27
-\OT1/cmr/m/n/10.95 of test-ing pro-cess with dif-fer-ent mod-els us-ing the im-
-ple-mented user in-ter-face, each walk-through
- []
-
 [2]) (chapters/chapter2.tex [3]
 Chapter 2.
 
@@ -296,12 +290,6 @@ ed to em-pir-i-cal, it is eas-ier to ex-trap-o-la-tion,
 Overfull \hbox (15.98097pt too wide) in paragraph at lines 9--15
 \OT1/cmr/m/n/10.95 In terms of the im-ple-men-ta-tion of model, it is split int
 o two types, agent based and equation-based
- []
-
-
-Overfull \hbox (9.47179pt too wide) in paragraph at lines 9--15
-\OT1/cmr/m/n/10.95 equa-tions, the model uses equa-tions to rep-re-sent re-la-t
-ion-ships be-tween ob-serv-ables(EQUATION
  []
 
 
@@ -338,15 +326,12 @@ File: figures/featureFile.png Graphic file (type png)
 <use figures/featureFile.png>
 Package pdftex.def Info: figures/featureFile.png  used on input line 49.
 (pdftex.def)             Requested size: 284.52756pt x 275.1337pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[8]
+[8 <./figures/featureFile.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
-<figures/stepFile.png, id=61, 468.24937pt x 112.16907pt>
+<figures/stepFile.png, id=62, 468.24937pt x 112.16907pt>
 File: figures/stepFile.png Graphic file (type png)
 <use figures/stepFile.png>
 Package pdftex.def Info: figures/stepFile.png  used on input line 59.
@@ -356,19 +341,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--70
 
  []
 
-[9 <./figures/featureFile.png> <./figures/stepFile.png>] [10])
-(chapters/chapter3.tex [11]
+[9 <./figures/stepFile.png>]) (chapters/chapter3.tex [10] [11]
 Chapter 3.
 
 Overfull \hbox (0.16443pt too wide) in paragraph at lines 2--4
 \OT1/cmr/m/n/10.95 Computational mod-els are of-ten too large and com-plex when
  test-ing with tra-di-tional meth-ods,
- []
-
-
-Overfull \hbox (5.79149pt too wide) in paragraph at lines 2--4
-\OT1/cmr/m/n/10.95 this of-ten causes de-vel-op-ers of those mod-els un-will-in
-g to test their mod-els thor-oughly[MODELS
  []
 
 <figures/Analysis.png, id=75, 679.53876pt x 357.335pt>
@@ -377,14 +355,14 @@ File: figures/Analysis.png Graphic file (type png)
 Package pdftex.def Info: figures/Analysis.png  used on input line 7.
 (pdftex.def)             Requested size: 369.88582pt x 194.50107pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--38
+Underfull \hbox (badness 10000) in paragraph at lines 13--39
 
  []
 
 [12
 
  <./figures/Analysis.png>] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 40--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
  []
 
@@ -396,24 +374,24 @@ Chapter 4.
 <figures/mainMenu.png, id=89, 384.6872pt x 234.8775pt>
 File: figures/mainMenu.png Graphic file (type png)
 <use figures/mainMenu.png>
-Package pdftex.def Info: figures/mainMenu.png  used on input line 24.
+Package pdftex.def Info: figures/mainMenu.png  used on input line 25.
 (pdftex.def)             Requested size: 284.52756pt x 173.73494pt.
  [16 <./figures/mainMenu.png>]
 <figures/editDot2.png, id=94, 381.67593pt x 253.69781pt>
 File: figures/editDot2.png Graphic file (type png)
 <use figures/editDot2.png>
-Package pdftex.def Info: figures/editDot2.png  used on input line 32.
+Package pdftex.def Info: figures/editDot2.png  used on input line 33.
 (pdftex.def)             Requested size: 284.52756pt x 189.1309pt.
 <figures/editFeature1.png, id=95, 391.4625pt x 246.9225pt>
 File: figures/editFeature1.png Graphic file (type png)
 <use figures/editFeature1.png>
-Package pdftex.def Info: figures/editFeature1.png  used on input line 42.
+Package pdftex.def Info: figures/editFeature1.png  used on input line 43.
 (pdftex.def)             Requested size: 284.52756pt x 179.47952pt.
  [17 <./figures/editDot2.png>]
 <figures/editFeature2.png, id=101, 377.91188pt x 251.43938pt>
 File: figures/editFeature2.png Graphic file (type png)
 <use figures/editFeature2.png>
-Package pdftex.def Info: figures/editFeature2.png  used on input line 51.
+Package pdftex.def Info: figures/editFeature2.png  used on input line 52.
 (pdftex.def)             Requested size: 284.52756pt x 189.30801pt.
 )
 (chapters/chapter5.tex [18 <./figures/editFeature1.png> <./figures/editFeature2
@@ -462,13 +440,12 @@ File: figures/editDot2Screen.png Graphic file (type png)
 Package pdftex.def Info: figures/editDot2Screen.png  used on input line 60.
 (pdftex.def)             Requested size: 284.52756pt x 218.80095pt.
  [24 <./figures/editDot1Screen.png>]
-Overfull \hbox (33.1968pt too wide) in paragraph at lines 66--70
+Overfull \hbox (0.31635pt too wide) in paragraph at lines 66--70
 \OT1/cmr/m/n/10.95 uses SciPy, an open-source soft-ware for math-e-mat-ics, sci
--ence, and en-gi-neer-ing [SciPy REF-ER-ENCE],
+-ence, and en-gi-neer-ing [[]], to gen-er-ate
  []
 
-[25 <./figures/editDot2Screen.png>]
-<figures/editFeature1Screen.png, id=142, 417.05812pt x 323.70938pt>
+<figures/editFeature1Screen.png, id=138, 417.05812pt x 323.70938pt>
 File: figures/editFeature1Screen.png Graphic file (type png)
 <use figures/editFeature1Screen.png>
 Package pdftex.def Info: figures/editFeature1Screen.png  used on input line 77.
@@ -480,207 +457,212 @@ Overfull \hbox (2.34418pt too wide) in paragraph at lines 72--80
 , user will need to de-fine the pa-ram-e-ters
  []
 
-[26]
-<figures/editFeature2Screen.png, id=146, 417.05812pt x 321.45094pt>
+[25 <./figures/editDot2Screen.png>]
+<figures/editFeature2Screen.png, id=143, 417.05812pt x 321.45094pt>
 File: figures/editFeature2Screen.png Graphic file (type png)
 <use figures/editFeature2Screen.png>
 Package pdftex.def Info: figures/editFeature2Screen.png  used on input line 85.
 
 (pdftex.def)             Requested size: 284.52756pt x 219.31458pt.
- [27 <./figures/editFeature1Screen.png>]
-<figures/editFeature3Screen.png, id=151, 417.05812pt x 323.70938pt>
+ [26 <./figures/editFeature1Screen.png>]
+<figures/editFeature3Screen.png, id=148, 417.05812pt x 323.70938pt>
 File: figures/editFeature3Screen.png Graphic file (type png)
 <use figures/editFeature3Screen.png>
 Package pdftex.def Info: figures/editFeature3Screen.png  used on input line 92.
 
 (pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
-) (chapters/chapter6.tex [28 <./figures/editFeature2Screen.png> <./figures/edit
-Feature3Screen.png>]
+
+[27 <./figures/editFeature2Screen.png>]) (chapters/chapter6.tex [28 <./figures/
+editFeature3Screen.png>]
 Chapter 6.
-<figures/influenzaTestProcess1.png, id=157, 417.05812pt x 323.70938pt>
-File: figures/influenzaTestProcess1.png Graphic file (type png)
-<use figures/influenzaTestProcess1.png>
-Package pdftex.def Info: figures/influenzaTestProcess1.png  used on input line 
-10.
-(pdftex.def)             Requested size: 227.62204pt x 176.67743pt.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-4.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
+.
 (C:\Users\Stanley\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
-<figures/influenzaTestProcess2.png, id=158, 417.05812pt x 322.95656pt>
-File: figures/influenzaTestProcess2.png Graphic file (type png)
-<use figures/influenzaTestProcess2.png>
-Package pdftex.def Info: figures/influenzaTestProcess2.png  used on input line 
-17.
-(pdftex.def)             Requested size: 284.52756pt x 220.34181pt.
-
-[29
-
- <./figures/influenzaTestProcess1.png>]
-<figures/influenzaTestProcess3.png, id=164, 417.05812pt x 496.10344pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+<figures/influenzaTestProcess3.png, id=157, 417.05812pt x 496.10344pt>
 File: figures/influenzaTestProcess3.png Graphic file (type png)
 <use figures/influenzaTestProcess3.png>
 Package pdftex.def Info: figures/influenzaTestProcess3.png  used on input line 
-24.
+10.
 (pdftex.def)             Requested size: 284.52756pt x 338.47379pt.
-<figures/influenzaTestProcess4.png, id=165, 417.05812pt x 474.27188pt>
-File: figures/influenzaTestProcess4.png Graphic file (type png)
-<use figures/influenzaTestProcess4.png>
-Package pdftex.def Info: figures/influenzaTestProcess4.png  used on input line 
-30.
-(pdftex.def)             Requested size: 284.52756pt x 323.57889pt.
- [30 <./figures/influenzaTestProcess2.png>] [31 <./figures/influenzaTestProcess
-3.png>]
-<figures/influenzaTestProcess5.png, id=174, 417.05812pt x 322.95656pt>
+
+[29
+
+]
+<figures/influenzaTestProcess5.png, id=163, 417.05812pt x 322.95656pt>
 File: figures/influenzaTestProcess5.png Graphic file (type png)
 <use figures/influenzaTestProcess5.png>
 Package pdftex.def Info: figures/influenzaTestProcess5.png  used on input line 
-37.
+17.
 (pdftex.def)             Requested size: 284.52756pt x 220.34181pt.
- [32 <./figures/influenzaTestProcess4.png>]
-<figures/influenzaTestProcess6.png, id=179, 417.05812pt x 529.22719pt>
-File: figures/influenzaTestProcess6.png Graphic file (type png)
-<use figures/influenzaTestProcess6.png>
-Package pdftex.def Info: figures/influenzaTestProcess6.png  used on input line 
-44.
-(pdftex.def)             Requested size: 284.52756pt x 361.07295pt.
-<figures/influenzaTestProcess7.png, id=180, 417.05812pt x 323.70938pt>
+ [30 <./figures/influenzaTestProcess3.png>]
+<figures/influenzaTestProcess7.png, id=168, 417.05812pt x 323.70938pt>
 File: figures/influenzaTestProcess7.png Graphic file (type png)
 <use figures/influenzaTestProcess7.png>
 Package pdftex.def Info: figures/influenzaTestProcess7.png  used on input line 
-50.
+24.
 (pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
- [33 <./figures/influenzaTestProcess5.png>] [34 <./figures/influenzaTestProcess
-6.png>]
-<figures/influenzaTestProcess8.png, id=189, 417.05812pt x 323.70938pt>
-File: figures/influenzaTestProcess8.png Graphic file (type png)
-<use figures/influenzaTestProcess8.png>
-Package pdftex.def Info: figures/influenzaTestProcess8.png  used on input line 
-58.
-(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
-<figures/influenzaTestProcess9.png, id=190, 417.05812pt x 323.70938pt>
-File: figures/influenzaTestProcess9.png Graphic file (type png)
-<use figures/influenzaTestProcess9.png>
-Package pdftex.def Info: figures/influenzaTestProcess9.png  used on input line 
-66.
-(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
-
-Overfull \hbox (1.36592pt too wide) in paragraph at lines 62--69
-[]\OT1/cmr/m/n/10.95 In en-vi-ron-ment.py, edit the run[]-in-fluenza1918 func-t
-ion to ex-e-cute the in-fluenza1918 model.
- []
-
-[35 <./figures/influenzaTestProcess7.png> <./figures/influenzaTestProcess8.png>
-]
-<figures/influenzaTestProcess10.png, id=196, 417.05812pt x 153.57375pt>
+<figures/influenzaTestProcess10.png, id=169, 417.05812pt x 153.57375pt>
 File: figures/influenzaTestProcess10.png Graphic file (type png)
 <use figures/influenzaTestProcess10.png>
 Package pdftex.def Info: figures/influenzaTestProcess10.png  used on input line
- 73.
+ 33.
 (pdftex.def)             Requested size: 284.52756pt x 104.77791pt.
-<figures/influenzaTestProcess11.png, id=197, 417.05812pt x 46.67438pt>
+ [31 <./figures/influenzaTestProcess5.png> <./figures/influenzaTestProcess7.png
+>]
+<figures/influenzaTestProcess11.png, id=175, 417.05812pt x 46.67438pt>
 File: figures/influenzaTestProcess11.png Graphic file (type png)
 <use figures/influenzaTestProcess11.png>
 Package pdftex.def Info: figures/influenzaTestProcess11.png  used on input line
- 80.
+ 40.
 (pdftex.def)             Requested size: 284.52756pt x 31.84425pt.
-<figures/influenzaTestProcess12.png, id=198, 417.05812pt x 472.76625pt>
+<figures/influenzaTestProcess12.png, id=176, 417.05812pt x 472.76625pt>
 File: figures/influenzaTestProcess12.png Graphic file (type png)
 <use figures/influenzaTestProcess12.png>
 Package pdftex.def Info: figures/influenzaTestProcess12.png  used on input line
- 87.
+ 47.
 (pdftex.def)             Requested size: 284.52756pt x 322.55165pt.
- [36 <./figures/influenzaTestProcess9.png> <./figures/influenzaTestProcess10.pn
-g> <./figures/influenzaTestProcess11.png>]
-<figures/influenzaTestProcess13.png, id=204, 417.05812pt x 323.70938pt>
-File: figures/influenzaTestProcess13.png Graphic file (type png)
-<use figures/influenzaTestProcess13.png>
-Package pdftex.def Info: figures/influenzaTestProcess13.png  used on input line
- 94.
-(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
-<figures/influenzaTestProcess14.png, id=205, 417.05812pt x 311.66437pt>
-File: figures/influenzaTestProcess14.png Graphic file (type png)
-<use figures/influenzaTestProcess14.png>
-Package pdftex.def Info: figures/influenzaTestProcess14.png  used on input line
- 100.
-(pdftex.def)             Requested size: 284.52756pt x 212.63754pt.
- [37 <./figures/influenzaTestProcess12.png>]
-<figures/influenzaTestProcess15.png, id=210, 417.05812pt x 241.65282pt>
+ [32 <./figures/influenzaTestProcess10.png> <./figures/influenzaTestProcess11.p
+ng>]
+<figures/influenzaTestProcess15.png, id=182, 417.05812pt x 241.65282pt>
 File: figures/influenzaTestProcess15.png Graphic file (type png)
 <use figures/influenzaTestProcess15.png>
 Package pdftex.def Info: figures/influenzaTestProcess15.png  used on input line
- 107.
+ 54.
 (pdftex.def)             Requested size: 284.52756pt x 164.87114pt.
- [38 <./figures/influenzaTestProcess13.png> <./figures/influenzaTestProcess14.p
-ng>] [39 <./figures/influenzaTestProcess15.png>]
-<figures/CovasimTestProcess1.png, id=218, 417.05812pt x 325.96782pt>
-File: figures/CovasimTestProcess1.png Graphic file (type png)
-<use figures/CovasimTestProcess1.png>
-Package pdftex.def Info: figures/CovasimTestProcess1.png  used on input line 12
-3.
-(pdftex.def)             Requested size: 284.52756pt x 222.39627pt.
-<figures/CovasimTestProcess2.png, id=219, 417.05812pt x 328.97906pt>
+ [33 <./figures/influenzaTestProcess12.png> <./figures/influenzaTestProcess15.p
+ng>]
+<figures/CovasimTestProcess2.png, id=188, 417.05812pt x 328.97906pt>
 File: figures/CovasimTestProcess2.png Graphic file (type png)
 <use figures/CovasimTestProcess2.png>
-Package pdftex.def Info: figures/CovasimTestProcess2.png  used on input line 13
-0.
+Package pdftex.def Info: figures/CovasimTestProcess2.png  used on input line 70
+.
 (pdftex.def)             Requested size: 284.52756pt x 224.45074pt.
- [40 <./figures/CovasimTestProcess1.png>]
-<figures/CovasimTestProcess3.png, id=224, 417.05812pt x 313.9228pt>
+ [34]
+<figures/CovasimTestProcess3.png, id=192, 417.05812pt x 313.9228pt>
 File: figures/CovasimTestProcess3.png Graphic file (type png)
 <use figures/CovasimTestProcess3.png>
-Package pdftex.def Info: figures/CovasimTestProcess3.png  used on input line 13
-8.
+Package pdftex.def Info: figures/CovasimTestProcess3.png  used on input line 78
+.
 (pdftex.def)             Requested size: 284.52756pt x 214.17839pt.
 
-Overfull \hbox (0.22223pt too wide) in paragraph at lines 134--141
+Overfull \hbox (0.22223pt too wide) in paragraph at lines 74--81
 []\OT1/cmr/m/n/10.95 Next is to de-fine the three-background file, in \OT1/cmr/
 m/sl/10.95 ab-stract.py\OT1/cmr/m/n/10.95 , there are two cus-tom con-straints
  []
 
-[41 <./figures/CovasimTestProcess2.png>]
-<figures/CovasimTestProcess4.png, id=230, 417.05812pt x 315.42844pt>
-File: figures/CovasimTestProcess4.png Graphic file (type png)
-<use figures/CovasimTestProcess4.png>
-Package pdftex.def Info: figures/CovasimTestProcess4.png  used on input line 14
-5.
-(pdftex.def)             Requested size: 284.52756pt x 215.20563pt.
-<figures/CovasimTestProcess5.png, id=231, 417.05812pt x 313.9228pt>
-File: figures/CovasimTestProcess5.png Graphic file (type png)
-<use figures/CovasimTestProcess5.png>
-Package pdftex.def Info: figures/CovasimTestProcess5.png  used on input line 15
-2.
-(pdftex.def)             Requested size: 284.52756pt x 214.17839pt.
- [42 <./figures/CovasimTestProcess3.png> <./figures/CovasimTestProcess4.png>]
-<figures/CovasimTestProcess6.png, id=236, 417.05812pt x 314.67563pt>
+[35 <./figures/CovasimTestProcess2.png>]
+<figures/CovasimTestProcess6.png, id=198, 417.05812pt x 314.67563pt>
 File: figures/CovasimTestProcess6.png Graphic file (type png)
 <use figures/CovasimTestProcess6.png>
-Package pdftex.def Info: figures/CovasimTestProcess6.png  used on input line 15
-9.
+Package pdftex.def Info: figures/CovasimTestProcess6.png  used on input line 85
+.
 (pdftex.def)             Requested size: 284.52756pt x 214.69202pt.
- [43 <./figures/CovasimTestProcess5.png> <./figures/CovasimTestProcess6.png>]) 
-(chapters/chapter7.tex [44]
+ [36 <./figures/CovasimTestProcess3.png> <./figures/CovasimTestProcess6.png>] [
+37]) (chapters/chapter7.tex [38]
 Chapter 7.
-) (myReport.bbl [45
+[39
 
-]) [46
+]) (myReport.bbl [40] [41
 
-] (myReport.aux)
+]) [42] [43
+
+
+] (chapters/appendixA.tex
+Appendix A.
+<figures/influenzaTestProcess1.png, id=228, 417.05812pt x 323.70938pt>
+File: figures/influenzaTestProcess1.png Graphic file (type png)
+<use figures/influenzaTestProcess1.png>
+Package pdftex.def Info: figures/influenzaTestProcess1.png  used on input line 
+4.
+(pdftex.def)             Requested size: 227.62204pt x 176.67743pt.
+<figures/influenzaTestProcess2.png, id=229, 417.05812pt x 322.95656pt>
+File: figures/influenzaTestProcess2.png Graphic file (type png)
+<use figures/influenzaTestProcess2.png>
+Package pdftex.def Info: figures/influenzaTestProcess2.png  used on input line 
+10.
+(pdftex.def)             Requested size: 284.52756pt x 220.34181pt.
+<figures/influenzaTestProcess4.png, id=230, 417.05812pt x 474.27188pt>
+File: figures/influenzaTestProcess4.png Graphic file (type png)
+<use figures/influenzaTestProcess4.png>
+Package pdftex.def Info: figures/influenzaTestProcess4.png  used on input line 
+16.
+(pdftex.def)             Requested size: 284.52756pt x 323.57889pt.
+[44
+
+ <./figures/influenzaTestProcess1.png>]
+<figures/influenzaTestProcess6.png, id=235, 417.05812pt x 529.22719pt>
+File: figures/influenzaTestProcess6.png Graphic file (type png)
+<use figures/influenzaTestProcess6.png>
+Package pdftex.def Info: figures/influenzaTestProcess6.png  used on input line 
+22.
+(pdftex.def)             Requested size: 284.52756pt x 361.07295pt.
+<figures/influenzaTestProcess8.png, id=236, 417.05812pt x 323.70938pt>
+File: figures/influenzaTestProcess8.png Graphic file (type png)
+<use figures/influenzaTestProcess8.png>
+Package pdftex.def Info: figures/influenzaTestProcess8.png  used on input line 
+28.
+(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
+ [45 <./figures/influenzaTestProcess2.png> <./figures/influenzaTestProcess4.png
+>]
+<figures/influenzaTestProcess9.png, id=241, 417.05812pt x 323.70938pt>
+File: figures/influenzaTestProcess9.png Graphic file (type png)
+<use figures/influenzaTestProcess9.png>
+Package pdftex.def Info: figures/influenzaTestProcess9.png  used on input line 
+34.
+(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
+ [46 <./figures/influenzaTestProcess6.png>]
+<figures/influenzaTestProcess13.png, id=246, 417.05812pt x 323.70938pt>
+File: figures/influenzaTestProcess13.png Graphic file (type png)
+<use figures/influenzaTestProcess13.png>
+Package pdftex.def Info: figures/influenzaTestProcess13.png  used on input line
+ 40.
+(pdftex.def)             Requested size: 284.52756pt x 220.85544pt.
+<figures/influenzaTestProcess14.png, id=247, 417.05812pt x 311.66437pt>
+File: figures/influenzaTestProcess14.png Graphic file (type png)
+<use figures/influenzaTestProcess14.png>
+Package pdftex.def Info: figures/influenzaTestProcess14.png  used on input line
+ 46.
+(pdftex.def)             Requested size: 284.52756pt x 212.63754pt.
+ [47 <./figures/influenzaTestProcess8.png> <./figures/influenzaTestProcess9.png
+>]
+<figures/CovasimTestProcess1.png, id=252, 417.05812pt x 325.96782pt>
+File: figures/CovasimTestProcess1.png Graphic file (type png)
+<use figures/CovasimTestProcess1.png>
+Package pdftex.def Info: figures/CovasimTestProcess1.png  used on input line 52
+.
+(pdftex.def)             Requested size: 284.52756pt x 222.39627pt.
+<figures/CovasimTestProcess4.png, id=253, 417.05812pt x 315.42844pt>
+File: figures/CovasimTestProcess4.png Graphic file (type png)
+<use figures/CovasimTestProcess4.png>
+Package pdftex.def Info: figures/CovasimTestProcess4.png  used on input line 58
+.
+(pdftex.def)             Requested size: 284.52756pt x 215.20563pt.
+ [48 <./figures/influenzaTestProcess13.png> <./figures/influenzaTestProcess14.p
+ng>]
+<figures/CovasimTestProcess5.png, id=257, 417.05812pt x 313.9228pt>
+File: figures/CovasimTestProcess5.png Graphic file (type png)
+<use figures/CovasimTestProcess5.png>
+Package pdftex.def Info: figures/CovasimTestProcess5.png  used on input line 64
+.
+(pdftex.def)             Requested size: 284.52756pt x 214.17839pt.
+) [49 <./figures/CovasimTestProcess1.png> <./figures/CovasimTestProcess4.png>] 
+[50 <./figures/CovasimTestProcess5.png>] (myReport.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2430 strings out of 478893
- 42805 string characters out of 2848032
- 340752 words of memory out of 3000000
- 20231 multiletter control sequences out of 15000+600000
+ 2447 strings out of 478893
+ 43099 string characters out of 2848032
+ 340787 words of memory out of 3000000
+ 20245 multiletter control sequences out of 15000+600000
  410545 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,66p,1653b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,7n,66p,1653b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX
@@ -693,9 +675,9 @@ ic/amsfonts/cm/cmsl10.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Stanley/AppData/Local/Progra
 ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Stanley/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on myReport.pdf (54 pages, 1234556 bytes).
+Output written on myReport.pdf (58 pages, 1249252 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
+ 310 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
