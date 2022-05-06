@@ -29,7 +29,8 @@ If user choose to select existing scenario, they will be presented with a list o
 The tool will create files with custom file and method name based on the scenario name entered by the user.
 
 \section{Main screen}
-In the basic version of Causcumber, to execute test, user will need to use terminal and run the command “behave feature/{feature filename}”. In the main screen, user can achieve this by simple use the “Select feature file” to chose the target \textsl{.feature} file, and “run behave” to execute the test. Then the result will be display on the screen. But before this, user will need to go through some steps to setup the test.
+In the basic version of Causcumber, to execute test, user will need to use terminal and run the command “behave feature/{feature filename}”. In the main screen, user can achieve this by simple use the “Select feature file” to chose the target \textsl{.feature} file, and “run behave” to execute the test. Then the result will be display on the screen in the result section, if the user has 95% Confidence interval in the result they produce, the interval will recorded and plot it in the graph under the result section(see appendix A.1). 
+But before this, user will need to go through some steps to setup the test.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=10cm]{figures/mainScreen.png}\\
@@ -38,8 +39,9 @@ In the basic version of Causcumber, to execute test, user will need to use termi
 \end{figure}
 The steps required is placed from top to bottom at the right of the screen as shown above, user will need to finish all the steps in order to test a model. A help section on top left is also provided to guide user if needed.
 
+
 \section{Edit .dot file}
-In the \textsl{.dot} file, user will first need to define the parameter clusters, typically there will be two clusters, one for input parameters and another for output parameters. After that user will need to define the relation between the parameters, this is done by using the syntax \textsl{ parameter1 -> parameter2}. One useful feature for \textsl{.dot} file is combine with Graphviz, an open source graph visualization software, user can generate a graph that help visualize the relation and cluster. 
+In the \textsl{.dot} file, user will first need to define the parameter clusters, typically there will be two clusters, one for input parameters and another for output parameters. After that user will need to define the relation between the parameters, this is done by using the syntax \textsl{ parameter1 -$>$ parameter2}. One useful feature for \textsl{.dot} file is combine with Graphviz, an open source graph visualization software, user can generate a graph that help visualize the relation and cluster. 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=10cm]{figures/dotExample.png}\\
@@ -79,14 +81,14 @@ All the parts mentioned above require user to formatted in a certain syntax, wit
 	\label{fig:figure16}
 \end{figure}
 Next part is to define the edges, this part is mostly identical to the edit \textsl{.dot} function to keep the consistence of the system, the only new addition is a new option allow user to add new edges. This new function is added due to the potential need for user to add extra edges, user can choose to not add new edges if there’s no need for that.\\*\\*
-After this is scenario outline and scenario, both are also structured like background, where parts of the sentence that require user to edit being left blank. In scenario outline, the syntax for example is a table like structure, this is simulated in the interface where user can use the add column and add row to edit the example. 
+After this is scenario outline and scenario, both are also structured like background, where parts of the sentence that require user to edit being left blank. In scenario outline, user will need to define “example”, which is how parameters will change when another parameter is changed in some way. The syntax for example is a table like structure, this is simulated in the interface where user can use the add column and add row to edit the example. 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=10cm]{figures/editFeature2Screen.png}\\
 	\caption{Edit scenario outline section of .feature file.}
 	\label{fig:figure17}
 \end{figure}
-In scenario, instead of example, it uses “Then” and “And” structure in Cucumber to represent the expected result. The structure is similar to the previous page but with example replaced with the option to add “And”.
+In scenario, instead of example, it uses “Then” and “And” structure in Cucumber to represent the expected result. The structure is similar to the previous page but with example replaced with the option to add “And”. The user will need to have at least one basic expected result, and if the user wishes to add more expected result, user can use “add And” option to add more. 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=10cm]{figures/editFeature3Screen.png}\\
@@ -94,6 +96,7 @@ In scenario, instead of example, it uses “Then” and “And” structure in C
 	\label{fig:figure18}
 \end{figure}
 When done, user can just click “Finish” button to return to main menu, then select and run the feature file created.
+
 
 
 

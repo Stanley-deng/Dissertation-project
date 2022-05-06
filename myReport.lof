@@ -5,42 +5,43 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces A diagram analysis for the system.}}{12}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Design concept for main menu.}}{16}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Part 2.Design concept for edit .dot function.}}{17}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Part 1.Design concept for edit .feature function.}}{18}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Part 2.Design concept for edit .feature function.}}{18}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Design concept for main menu.}}{17}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Part 2.Design concept for edit .dot function.}}{18}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Part 1.Design concept for edit .feature function.}}{19}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Part 2.Design concept for edit .feature function.}}{19}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Basic workflow for testing a model.}}{20}{}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Start screen.}}{21}{}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Create new scenario screen.}}{21}{}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Main screen.}}{22}{}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Graphviz example.}}{23}{}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Add parameter to .dot file.}}{24}{}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Edit parameter relation.}}{25}{}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Edit first section of .feature file.}}{26}{}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Edit scenario outline section of .feature file.}}{27}{}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Edit scenario section of .feature file.}}{28}{}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Basic workflow for testing a model.}}{21}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Start screen.}}{22}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Create new scenario screen.}}{22}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Main screen.}}{23}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Graphviz example.}}{24}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Add parameter to .dot file.}}{25}{}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Edit parameter relation.}}{26}{}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Edit first section of .feature file.}}{27}{}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Edit scenario outline section of .feature file.}}{28}{}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Edit scenario section of .feature file.}}{29}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Edit graph for input parameters.}}{30}{}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Edit relation for parameters.}}{31}{}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Relations of parameters presented in Graphviz graph.}}{31}{}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Edit initial parameters name, type and value/distribution in influenza1918.}}{32}{}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Edit recorded parameters name and type in influenza1918.}}{32}{}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Edit scenario for influenza1918.}}{33}{}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Result produced by Causcumber display in result section.}}{33}{}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Relation for parameters for testing Covasim.}}{35}{}%
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Background for testing Covasim.}}{36}{}%
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Result produced by using assisting tool.}}{36}{}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Edit graph for input parameters.}}{31}{}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Edit relation for parameters.}}{32}{}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Relations of parameters presented in Graphviz graph.}}{32}{}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Edit initial parameters name, type and value/distribution in influenza1918.}}{33}{}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Edit recorded parameters name and type in influenza1918.}}{33}{}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Edit scenario for influenza1918.}}{34}{}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Result produced by Causcumber display in result section.}}{34}{}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Relation for parameters for testing Covasim.}}{36}{}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Background for testing Covasim.}}{37}{}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Result produced by using assisting tool.}}{37}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Creating new scenario for influenza1918.}}{44}{}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Select “Edit dot files” function.}}{45}{}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Graphviz for input influenza1918 parameters graph.}}{45}{}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Drop-down menu for select parameter.}}{46}{}%
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Edit background files for testing influenza1918.}}{47}{}%
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Edit feature files for testing influenza1918.}}{47}{}%
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Select “Select feature files” function.}}{48}{}%
-\contentsline {figure}{\numberline {A.8}{\ignorespaces Select newly created feature file.}}{48}{}%
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Input and output graph for testing Covasim.}}{49}{}%
-\contentsline {figure}{\numberline {A.10}{\ignorespaces Select add additional edges.}}{49}{}%
-\contentsline {figure}{\numberline {A.11}{\ignorespaces Scenario outline for testing Covasim.}}{50}{}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces A 95\% confidence interval example with one scenario passed.}}{45}{}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Creating new scenario for influenza1918.}}{45}{}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Select “Edit dot files” function.}}{46}{}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Graphviz for input influenza1918 parameters graph.}}{46}{}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Drop-down menu for select parameter.}}{47}{}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Edit background files for testing influenza1918.}}{48}{}%
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Edit feature files for testing influenza1918.}}{48}{}%
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Select “Select feature files” function.}}{49}{}%
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Select newly created feature file.}}{49}{}%
+\contentsline {figure}{\numberline {A.10}{\ignorespaces Input and output graph for testing Covasim.}}{50}{}%
+\contentsline {figure}{\numberline {A.11}{\ignorespaces Select add additional edges.}}{50}{}%
+\contentsline {figure}{\numberline {A.12}{\ignorespaces Scenario outline for testing Covasim.}}{51}{}%
