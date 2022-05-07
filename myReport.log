@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  6 MAY 2022 22:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.24)  7 MAY 2022 21:10
 entering extended mode
 **./myReport.tex
 (myReport.tex
@@ -359,20 +359,26 @@ File: figures/editDot2.png Graphic file (type png)
 <use figures/editDot2.png>
 Package pdftex.def Info: figures/editDot2.png  used on input line 34.
 (pdftex.def)             Requested size: 284.52756pt x 189.1309pt.
+
+Overfull \hbox (19.26607pt too wide) in paragraph at lines 38--42
+\OT1/cmr/m/n/10.95 After edit the re-la-tion of pa-ram-e-ter, user will need to
+ edit the auto gen-er-ated files, \OT1/cmr/m/sl/10.95 en-vi-ron-ment.py\OT1/cmr
+/m/n/10.95 ,
+ []
+
 <figures/editFeature1.png, id=99, 391.4625pt x 246.9225pt>
 File: figures/editFeature1.png Graphic file (type png)
 <use figures/editFeature1.png>
 Package pdftex.def Info: figures/editFeature1.png  used on input line 45.
 (pdftex.def)             Requested size: 284.52756pt x 179.47952pt.
- [18 <./figures/editDot2.png>]
+[18 <./figures/editDot2.png>]
 <figures/editFeature2.png, id=104, 377.91188pt x 251.43938pt>
 File: figures/editFeature2.png Graphic file (type png)
 <use figures/editFeature2.png>
 Package pdftex.def Info: figures/editFeature2.png  used on input line 55.
 (pdftex.def)             Requested size: 284.52756pt x 189.30801pt.
-)
-(chapters/chapter5.tex [19 <./figures/editFeature1.png> <./figures/editFeature2
-.png>]
+) (chapters/chapter5.tex [19 <./figures/editFeature1.png> <./figures/editFeatur
+e2.png>]
 Chapter 5.
 <figures/workFlow.png, id=110, 416.00418pt x 323.40825pt>
 File: figures/workFlow.png Graphic file (type png)
@@ -655,7 +661,7 @@ a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
 /Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti1
 0.pfb><C:/Users/Stanley/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmti12.pfb>
-Output written on myReport.pdf (59 pages, 1271552 bytes).
+Output written on myReport.pdf (59 pages, 1271877 bytes).
 PDF statistics:
  320 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
